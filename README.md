@@ -1,16 +1,14 @@
-# 🎯 Simulasi CAT CPNS (Rust + eframe/egui)
+# ==> Simulasi CAT CPNS (Rust + eframe/egui)
 
 Aplikasi simulasi Computer Assisted Test (CAT) Seleksi Kompetensi Dasar (SKD) Calon Pegawai Negeri Sipil (CPNS) berbasis desktop yang dibangun menggunakan bahasa pemrograman **Rust** dan framework eframe/egui.
 
 Aplikasi ini didesain ringan, cepat, tanpa lag, dan dapat berjalan secara offline (tanpa koneksi internet) pada sistem operasi **Windows**, **macOS**, dan **Linux**.
 
-## 🎬 Demo Video
+## ==> Demo Video
 
-<video src="record.mp4" controls muted width="100%"></video>
+[![Lihat Demo](https://img.shields.io/badge/▶️-Lihat_Demo_Video-red)](https://github.com/Rioprastyo17/cpnssimulation/releases/download/v1.0.0/record.mp4)
 
----
-
-## 🌟 Fitur Utama
+## ==> Fitur Utama
 
 - **Format Soal Resmi SKD CPNS:**
   - **TWK (Tes Wawasan Kebangsaan):** 30 Soal (Bobot: Benar = 5, Salah/Kosong = 0)
@@ -37,7 +35,7 @@ Aplikasi ini didesain ringan, cepat, tanpa lag, dan dapat berjalan secara offlin
 
 ---
 
-## 📋 Prasyarat Sistem
+## ==> Prasyarat Sistem
 
 Sebelum melakukan kompilasi atau menjalankan aplikasi dari sumber (source code), pastikan Anda telah memasang **Rust & Cargo** (disarankan versi stable terbaru).
 
@@ -54,7 +52,7 @@ Kunjungi [rustup.rs](https://rustup.rs/) atau jalankan perintah berikut di termi
 
 ---
 
-## 💻 Panduan Instalasi & Menjalankan
+## ==> Panduan Instalasi & Menjalankan
 
 ### 1. Linux (Ubuntu / Debian / Fedora / Arch)
 
@@ -149,7 +147,7 @@ cargo build --release
 
 ---
 
-## 📂 Struktur Direktori Proyek
+## ==> Struktur Direktori Proyek
 
 ```text
 simulasi-cpns/
@@ -170,7 +168,7 @@ simulasi-cpns/
 
 ---
 
-## ⚙️ Menambahkan Dataset Soal Baru
+## ==> Menambahkan Dataset Soal Baru
 
 Aplikasi secara otomatis mendeteksi file `.json` yang mengikuti format bank soal CPNS di folder aplikasi. Format JSON mengikuti struktur berikut:
 
@@ -223,6 +221,6 @@ Simpan file dengan awalan `dataset_soal` (misal: `dataset_soal_custom.json`), la
 
 ---
 
-## 📜 Lisensi
+## ==> Lisensi
 
 Proyek ini didistribusikan untuk keperluan belajar dan persiapan ujian seleksi CASN / CPNS. Bebas digunakan dan dikembangkan lebih lanjut.
