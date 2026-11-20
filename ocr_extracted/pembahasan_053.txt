@@ -1,0 +1,29 @@
+Pembahasan Nomor53
+
+Jawaban kamu: A ENY
+
+IM Pembahasan Soal
+
+Diketahui
+Jumlah Sepatu | Jumlah Tas
+wD (pasang) (buah)
+A 90 70
+B 75 85
+Cc 100 60
+D 80 95
+
+Keuntungan yang diperoleh dari 1 pasang sepatu adalah Rp50.000, sedangkan keuntungan dari 1 buah tas adalah Rp40.000. Maka
+keuntungan yang diperoleh setiap toko
+
+-TokoA:(90 x 50.000) + (70 x 40.000) = 4.500.000 + 2.800.000 =7.300.000
+
+= Toko B:(75 x 50.000) + (85 x 40.000) = 3.750.000 + 3.400.000 =7.150.000
+
+- Toko C: 100 x 50.000) +(60 x 40.000) = 5.000.000 4 2.400.000 =7.400.000
+
+= Toko D :(80 x 50.000) +(95 x 40.000) = 4.000.000 + 3.800.000 =7.800.000
+
+Sehingga urutan keuntungan dariyangterbesaradalahD-C-A-B
+
+Jawaban:
+

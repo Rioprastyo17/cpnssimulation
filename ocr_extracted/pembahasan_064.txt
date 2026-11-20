@@ -1,0 +1,12 @@
+Pembahasan Nomor64
+
+Jawaban kamu:B KEY
+
+IM Pembahasan Soal
+
+Pola pada setiap baris yaitu:
+Objek yang ada di kolom ketiga adalah hasil pencerminan secara horizontal dari objek yang ada dikolom kedua.
+“Sehingga gambar yang tepat pada bariske 3 adalah yang C.
+
+Jawaban: C
+

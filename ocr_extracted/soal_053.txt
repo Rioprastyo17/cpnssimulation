@@ -1,0 +1,21 @@
+soa!Nomor§5(P6)
+'Sebuah perusahaan memiliki empat cabang toko yang menjual dua jenis produk, yaitu sepatu dan tas. Data penjualan dalam 1 bulan
+adalah sebagai berikut:
+Jumlah Sepatu | Jumlah Tas
+Toko
+pasang) (buah)
+
+LA 9 | 7 |
+(BL 35 | s |
+Le too | 0 |
+Ldl 8 | 95 |
+Keuntungan yang diperoleh dari 1 pasang sepatu adalah Rp50.000, sedangkan keuntungan dari 1 buah tas adalah Rp40.000.
+Berdasarkan informasi ini, urutkan keempat cabang toko berdasarkan keuntungan yang diperoleh, mulai dari yang paling besar.
+
+A C-D-B-A
+
+Cc B-D-C-B
+
+D C-A-D-A
+
+E A-C-B-D

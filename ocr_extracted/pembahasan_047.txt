@@ -1,0 +1,30 @@
+Pembahasan Nomor47
+
+Jawaban kamu: C@)
+
+IM Pembahasan Soal
+
+'AlFaiz Hari Bersamanya
+TotalHari- >< W245 WS denganP = Pekerja, Wp = Waktu pekerja, S = Pekerja sakit, dan Ws = Waktu pekerja yang sakit.
+
+Dari soal dapat diperoleh,
+P-60 pekerja
+
+Wp =150 hari
+
+S(Pekerja Sakit/Cuti) = 10 pekerja
+Ws (Waktu Sakit/Cuti) = 6 hari.
+
+Total Hari =
+
+150 |, 10-8
+dot
+
+21501
+215041
+
+=151
+
+Tambahan hari agar pekerjaan selesai: 151 hari - 150 hari = Ihar.
+
+Jawaban: A

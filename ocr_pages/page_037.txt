@@ -1,0 +1,22 @@
+Soal Nomor 37 (PG)
+Tidak ada burung hantu yang aktif di siang hari.
+Beberapa hewan yang aktif di siang hari suka memakan serangga.
+Kesimpulan dari kedua premis tersebut adalah...
+
+A Semuaburung hantu suka memakan serangga.
+
+B Beberapahewanyang suka memakan serangga bukan burung hantu.
+
+C Semuaburung hantu aktif di malam hari dan suka serangga.
+
+D Sebagian burung hantu aktif di siang hari.
+
+E Burung hantu tidak suka memakan serangga.
+Pembahasan Nomor 37
+Jawaban kamu: BE
+
+BB Pembahasan Soal
+
+Premis pertama menyatakan burung hantu tidak ada yang aktif di siang hari. Premis kedua menyebut sebagian hewan yang aktif di siang
+hari suka memakan serangga. Maka, hewan yang suka memakan serangga itu bukan burung hantu.
+Jawaban: B

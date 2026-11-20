@@ -1,0 +1,9 @@
+SoalNomor36 (PG)
+Tidak ada pegawai kantor pajak yang bekerja sebagai konsultan keuangan pribadi.
+Seorang konsultan keuangan pribadi memberikan seminar di aula kantor pajak.
+Kesimpulan dari kedua premis tersebut adalah.
+A  Semuakonsultan keuangan pribadi bekerja dikantor pajak.
+B  Tidakada konsultan keuangan pribadi yang boleh masuk ke kantor pajak.
+© Konsultan keuangan pribadi yang memberi seminarbukan pegawai kantor pajak.
+D Semua pegawai kantor pajak pasti menghadiri seminar konsultan keuangan pribadi.
+E Beberapa pegawai kantor pajak juga bekerja sebagai konsultan keuangan pribadi.

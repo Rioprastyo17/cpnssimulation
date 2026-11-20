@@ -1,0 +1,10 @@
+soatNomor35 (°C)
+'Semua peserta yang hadir dalam seminar harus melakukan registrasi dimeja depan
+Beberapa orang yang sudah registrasi tidak mendapatkan seminar kit.
+Pesertayang tidak melakukan registrasi tidak boleh masuk ke ruang seminar.
+Kesimpulan yang paling tepat adalah.
+A Semua peserta yang masuk ruang seminar tidak mendapatkan seminar kit.
+B Semua peserta yang melakukan registrasi pasti masuk ke ruang seminar.
+© Semua peserta yang masuk ruang seminar sudah melakukan registrasi
+D Peserta yang tidak mendapat seminar kit berarti tidak melakukan registrasi.
+E Beberapa orang yang tidak registrasi tetap mendapat seminar kit.

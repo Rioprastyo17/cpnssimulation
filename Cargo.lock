@@ -2158,6 +2158,7 @@ name = "simulasi-cpns"
 version = "0.1.0"
 dependencies = [
  "eframe",
+ "image",
  "rand",
  "serde",
  "serde_json",

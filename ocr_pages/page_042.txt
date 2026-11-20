@@ -1,0 +1,13 @@
+Soal Nomor 42 (PG)
+Diketahui:
+Ao | Bo
+Tika membeli kuota harian
+, , . Pembahasan Nomor 42
+Rp15.000/hari selama 7 hari | RP95-000
+Manakah hubungan yang benar antara kuantitas A dan B berdasarkan informasi yang diberikan... Jawaban kamu: A
+B A>3B A+? Rp15.000 - Rp105.000
+B — Rp35.000
+= ee Kita uji perbandingan tersebut pada pilihan jawaban dan didapatkan hubungan A « 3B.
+Jawaban: A
+D 3A-B
+E 3A<3B

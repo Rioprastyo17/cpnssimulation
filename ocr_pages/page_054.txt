@@ -1,0 +1,33 @@
+Soal Nomor 54 (PG)
+Delapan orang Anne, Bunga, Cyntia, Doni, Ema, Galih, Haikal, dan Keta duduk dalam dua baris kursi, masing-masing empat. Doni duduk di
+kursi paling kiri pada barisan depan. dan di sebelahnya duduk Ema. Galih juga duduk di barisan depan, tetapi tidak di kursi tepi. Tepat di
+hadapan Galih duduk Bunga, yang satu baris dengan Anne dan Cyntia. Sementara itu, Haikal menempati kursi persis di belakang Doni.
+Dengan susunan tersebut, di manakah posisi Keta?
+
+A Diujung kananbaris depan
+
+B DisampingEma
+
+Cc Didepan Galih
+
+D Dibelakang Doni
+
+E Diantara Anne dan Bunga
+Pembahasan Nomor 54
+Jawaban kamu: Cy
+
+BB Pembahasan Soal
+
+Informasi yang diberikan:
+- Doni duduk di kursi paling kiri pada barisan depan, dan di sebelahnya duduk Ema.
+- Galihjuga duduk di barisan depan, tetapi tidak di kursi tepi
+- Tepat dihadapan Galih duduk Bunga, yang satu baris dengan Anne dan Cyntia,
+- Haikal menempati kursi persis di belakang Doni.
+Sehingga susunannya menjadi
+
+Korie — Kanan
+
+— Doni | Ema — | Galih Keta
+— Haikal Cyntia/ Bunga Bunga Anne/Cyntia
+
+Jawaban: A

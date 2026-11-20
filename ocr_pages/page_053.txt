@@ -1,0 +1,23 @@
+Soal Nomor 53 (PG) Pembahasan Nomor 53
+Sebuah perusahaan memiliki empat cabang toko yang menjual dua jenis produk, yaitu sepatu dan tas. Data penjualan dalam 1 bulan
+adalah snbave berikut: ° ° ™ " ' ° ™ Jawaban kamu: A | Salah )
+pasang buah NM Pembahasan Soal
+pA | 99 | 7 |
+ee ketahui
+Lc | 100 | 60 | Diketahui
+| D | 80 | 9 |
+Toko Jumlah Sepatu | Jumlah Tas
+Keuntungan yang diperoleh dari 1 pasang sepatu adalah Rp50.000, sedangkan keuntungan dari 1 buah tas adalah Rp40.000. Toko
+Berdasarkan informasi ini, urutkan keempat cabang toko berdasarkan keuntungan yang diperoleh, mulai dari yang paling besar. ( pasal ta ) (bua h)
+Al 9 |
+NN
+pc | 10 | 0
+pf 80 9s
+c B-D-C-B Keuntungan yang diperoleh dari 1 pasang sepatu adalah Rp50.000, sedangkan keuntungan dari 1 buah tas adalah Rp40.000. Maka
+keuntungan yang diperoleh setiap toko :
+See - Toko A: (90 x 50.000)+ (70 x 40.000) - 4.500.000 4 2.800.000 - 7.300.000
+- Toko B:(75 x 50.000) 4185 x 40.000) = 3.750.000 4 3.400.000 - 7.150.000
+- Toke C 11100 x 50.000) 160 x 40.000)- 5.000.000 + 2.400.000 - 7.400.000
+E A-C-B-D - Toko D:(80 x 50.000) -- (25 x 40.000)- 4.000.000 4 3.800.000 - 7.800.000
+Sehingga urutan keuntungan dari yang terbesar adalah D- C- A-B
+Jawaban: B

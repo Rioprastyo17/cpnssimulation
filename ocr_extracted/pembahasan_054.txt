@@ -1,0 +1,19 @@
+Pembahasan Nomor54
+
+Jawaban kamu: CSS
+
+IM Pembahasan Soal
+
+- Doni duduk dikursi paling kiri pada barisan depan, dan di sebelahnya duduk Ema.
+- Galihjuga duduk di barisan depan, tetapi tidak dikursitepi
+
+- Tepat dihadapan Galih duduk Bunga, yang satu baris dengan Anne dan Cyntia,
+
+- Haikal menempati kursi persis dibelakang Doni.
+
+Sehingga susunannya menjadi
+Kiri —Kanan
+Doni Ema Galih Keta
+Haikal Cyntia/Bunga Bunga Anne/Cyntia
+
+Jawaban: A

@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "kategori": "TWK",
+    "pertanyaan": "Pembukaan UUD 1945 dalam kaitannya dengan HAM adalah ...",
+    "opsi": [
+      "Piagam HAM Indonesia",
+      "Sumber HAM Indonesia",
+      "Pedoman pelaksanaan jaminan HAM Indonesia",
+      "Penjelasan pelaksanaan HAM Indonesia",
+      "Rumusan pelaksanaan HAM"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Pembukaan UUD 1945 mengandung prinsip-prinsip pokok hak asasi manusia, terutama pada Alinea I yang menegaskan 'Kemerdekaan adalah hak segala bangsa'. Oleh karena itu, Pembukaan UUD 1945 diakui secara fundamental sebagai Piagam Hak Asasi Manusia (HAM) bangsa Indonesia."
+  },
+  {
+    "id": 2,
+    "kategori": "TWK",
+    "pertanyaan": "Yang menjadi causal final dari Pancasila adalah ...",
+    "opsi": [
+      "Piagam Jakarta",
+      "Bangsa Indonesia",
+      "Warga Negara Indonesia",
+      "BPUPKI",
+      "PPKI"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Menurut Prof. Notonagoro, Kausa Finalis (asal mula tujuan) dari Pancasila adalah PPKI (Panitia Persiapan Kemerdekaan Indonesia) yang merumuskan dan mengesahkan Pancasila sebagai dasar negara merdeka."
+  },
+  {
+    "id": 3,
+    "kategori": "TWK",
+    "pertanyaan": "Yang bukan termasuk prinsip-prinsip dasar negara yang diusulkan oleh Ir. Soekarno pada tanggal 1 juni 1945 adalah ...",
+    "opsi": [
+      "Demokrasi",
+      "Kekeluargaan",
+      "Perikemanusiaan",
+      "Kesejahteraan sosial",
+      "Kebangsaan"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Prinsip dasar negara usulan Ir. Soekarno pada 1 Juni 1945 terdiri dari: 1. Kebangsaan Indonesia, 2. Internasionalisme atau Perikemanusiaan, 3. Mufakat atau Demokrasi, 4. Kesejahteraan Sosial, dan 5. Ketuhanan yang Berkebudayaan. 'Kekeluargaan' bukan salah satu dari 5 prinsip yang diusulkan Soekarno pada tanggal tersebut."
+  },
+  {
+    "id": 4,
+    "kategori": "TWK",
+    "pertanyaan": "Berdasarkan TAP MPRS No. XX/MPR/1966, Pancasila menempati tempat tertinggi sebagai hukum di negara RI, karena Pancasila merupakan ...",
+    "opsi": [
+      "Dokumen histori yang luhur",
+      "Alat pemersatu bangsa",
+      "Nilai-nilai luhur dari nenek moyang",
+      "Landasan perjuangan bangsa",
+      "Dasar negara dan pandangan hidup bangsa Indonesia"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "TAP MPRS No. XX/MPR/1966 menegaskan bahwa Pancasila menempati tata urutan hierarki tertinggi sebagai sumber dari segala sumber hukum di Indonesia, karena merupakan dasar negara dan pandangan hidup bangsa Indonesia."
+  },
+  {
+    "id": 5,
+    "kategori": "TWK",
+    "pertanyaan": "Yang diatur oleh hukum dasar negara adalah ...",
+    "opsi": [
+      "Susunan organisasi suatu negara",
+      "Membatasi tugas dan wewenang badan-badan Negara",
+      "Menjaga/mengatur hubungan vertikal antara badan-badan negara",
+      "Menjaga/mengatur hubungan horizontal antara badan-badan Negara",
+      "Semua jawaban benar"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Hukum dasar negara (Konstitusi) mengatur tata susunan organisasi negara, pembagian dan pembatasan wewenang antarbadan negara, serta hubungan baik vertikal (pusat-daerah) maupun horizontal (antarlembaga). Sehingga seluruh pernyataan adalah benar."
+  },
+  {
+    "id": 6,
+    "kategori": "TWK",
+    "pertanyaan": "Yang bukan merupakan dampak/akibat dari Dekrit Presiden 5 Juli 1959 adalah...",
+    "opsi": [
+      "Konstituante dibubarkan",
+      "UUDS tidak berlaku",
+      "Kembali ke UUD 1945",
+      "Dibentuk DPRS",
+      "Dibentuk DPAS"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Dekrit Presiden 5 Juli 1959 menghasilkan: 1) Pembubaran Konstituante, 2) Berlakunya kembali UUD 1945 dan tidak berlakunya UUDS 1950, 3) Pembentukan MPRS dan DPAS. Lembaga yang dibentuk BUKAN DPRS, melainkan MPRS dan DPAS."
+  },
+  {
+    "id": 7,
+    "kategori": "TWK",
+    "pertanyaan": "Yang bukan merupakan alat-alat perlengkapan MPR adalah ...",
+    "opsi": [
+      "Pimpinan MPR",
+      "Badan pekerja MPR",
+      "Pembantu MPR",
+      "Komisi MPR",
+      "Panitia Ad Hoc. MPR"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Berdasarkan tata tertib MPR, alat kelengkapan MPR terdiri dari: Pimpinan MPR, Badan Pekerja MPR, Komisi MPR, dan Panitia Ad Hoc MPR. Tidak ada istilah 'Pembantu MPR' sebagai alat kelengkapan MPR."
+  },
+  {
+    "id": 8,
+    "kategori": "TWK",
+    "pertanyaan": "Menteri-menteri negara adalah pembantu presiden. Hal tersebut diatur dalam UUD 1945, yaitu ...",
+    "opsi": [
+      "Pasal 18",
+      "Pasal 19",
+      "Pasal 17",
+      "Pasal 16",
+      "Pasal 12"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Kedudukan kementerian negara dan menteri-menteri sebagai pembantu Presiden diatur secara tegas dalam Bab V Pasal 17 UUD 1945 (ayat 1, 2, 3, dan 4)."
+  },
+  {
+    "id": 9,
+    "kategori": "TWK",
+    "pertanyaan": "Berkenaan dengan perubahan isi dari UUD 1945 sebenarnya telah diatur oleh TAP MPR No. IV/MPR/1983 tentang ...",
+    "opsi": [
+      "Interpelasi",
+      "Budget",
+      "Referendum",
+      "Mosi tidak percaya",
+      "Angket"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Ketetapan MPR No. IV/MPR/1983 mengatur tentang Referendum sebelum dilakukannya perubahan terhadap pasal-pasal UUD 1945 pada era Orde Baru."
+  },
+  {
+    "id": 10,
+    "kategori": "TWK",
+    "pertanyaan": "Penyebab utama menyerahnya Jepang kepada sekutu adalah ...",
+    "opsi": [
+      "Jepang tidak mendapat dukungan dari rakyat Indonesia",
+      "Jepang kehabisan bala tentara yang diandalkan",
+      "Kaisar Jepang tidak lagi menginginkan Jepang untuk berperang",
+      "Pemimpin Jepang banyak yang gugur",
+      "Kota Nagasaki dan Hiroshima dibom atom oleh Amerika Serikat"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Jepang menyerah tanpa syarat kepada Sekutu setelah dua kota pusat industri militer utamanya, Hiroshima (6 Agustus 1945) dan Nagasaki (9 Agustus 1945), dijatuhi bom atom oleh Amerika Serikat."
+  },
+  {
+    "id": 11,
+    "kategori": "TWK",
+    "pertanyaan": "Sehari setelah proklamasi, PPKI mengadakan sidang pertama, hasil sidang tersebut adalah ...",
+    "opsi": [
+      "Mengesahkan UUD menjadi UUD 1945",
+      "Menetapkan Ir. Soekarno dan Moh. Hatta sebagai presiden dan wakil presiden",
+      "Presiden untuk sementara waktu dibantu oleh suatu Komite Nasional",
+      "Dibentuknya wakil rakyat yaitu DPR dan MPR",
+      "A, B, dan C benar"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Sidang pertama PPKI pada 18 Agustus 1945 menghasilkan 3 keputusan krusial: 1) Mengesahkan UUD 1945, 2) Memilih Ir. Soekarno sebagai Presiden dan Drs. Moh. Hatta sebagai Wakil Presiden, 3) Membentuk Komite Nasional Indonesia Pusat (KNIP) untuk membantu tugas Presiden sementara waktu."
+  },
+  {
+    "id": 12,
+    "kategori": "TWK",
+    "pertanyaan": "Buku Max Havelaar dikarang oleh ...",
+    "opsi": [
+      "Van den Bosch",
+      "Douwes Dekker",
+      "Raffles",
+      "Daendels",
+      "Jp. Coen"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Buku 'Max Havelaar: Or the Coffee Auctions of the Dutch Trading Company' ditulis oleh Eduard Douwes Dekker dengan nama samaran Multatuli pada tahun 1860 yang membongkar kekejaman tanam paksa (cultuurstelsel)."
+  },
+  {
+    "id": 13,
+    "kategori": "TWK",
+    "pertanyaan": "Alasan dikeluarkannya Deklarasi Djuanda adalah ...",
+    "opsi": [
+      "Mempertahankan NKRI",
+      "Menciptakan kawasan damai dalam gagasan Wawasan Nusantara",
+      "Melindungi kekayaan negara Indonesia",
+      "Memberikan kenyamanan pemerintah untuk menindak pelanggaran laut",
+      "Melindungi wilayah kepulauan RI"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Deklarasi Djuanda dicetuskan pada 13 Desember 1957 oleh PM Djuanda Kartawidjaja untuk menyatukan dan melindungi keutuhan wilayah kepulauan Indonesia, sehingga laut antarpulau bukan pemisah melainkan satu kesatuan wilayah NKRI."
+  },
+  {
+    "id": 14,
+    "kategori": "TWK",
+    "pertanyaan": "Untuk mendapatkan keadilan pertama bagi rakyat adalah pada tingkat pengadilan negeri, sedangkan Pengadilan Tinggi dan Mahkamah Agung berfungsi sebagai ...",
+    "opsi": [
+      "Peradilan banding dan kasasi",
+      "Peradilan istimewa",
+      "Peradilan KKN",
+      "Peradilan perkara berat dan lebih berat",
+      "Peradilan khusus"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Dalam sistem peradilan di Indonesia, Pengadilan Negeri adalah pengadilan tingkat pertama, Pengadilan Tinggi adalah tingkat banding, dan Mahkamah Agung adalah tingkat kasasi."
+  },
+  {
+    "id": 15,
+    "kategori": "TWK",
+    "pertanyaan": "Mahkamah Agung mempunyai hak untuk menguji terhadap peraturan perundang-undangan yang berlaku, kecuali ...",
+    "opsi": [
+      "Peraturan Pemerintah",
+      "Keputusan Presiden",
+      "Keputusan Menteri",
+      "Peraturan Daerah",
+      "Undang-undang produk DPR"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Berdasarkan Pasal 24A UUD 1945, Mahkamah Agung berwenang menguji peraturan perundang-undangan di bawah Undang-Undang terhadap Undang-Undang. Pengujian Undang-Undang (produk DPR bersama Presiden) terhadap UUD 1945 adalah kewenangan Mahkamah Konstitusi (Pasal 24C)."
+  },
+  {
+    "id": 16,
+    "kategori": "TWK",
+    "pertanyaan": "Dalam dinamika ketatanegaraan Indonesia berlangsung, yang tidak pernah mengalami perubahan adalah ...",
+    "opsi": [
+      "Bentuk negara",
+      "Bentuk pemerintahan",
+      "Corak pemerintahan",
+      "Lembaga negara",
+      "Sistem demokrasi"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Dalam sejarah konstitusi Indonesia, yang tidak pernah berubah adalah komitmen bentuk negara kesatuan (NKRI), sebagaimana ditegaskan dalam Pasal 37 ayat (5) UUD 1945 bahwa bentuk NKRI tidak dapat dilakukan perubahan."
+  },
+  {
+    "id": 17,
+    "kategori": "TWK",
+    "pertanyaan": "Sistem pemerintahan kabinet presidensil ditandai oleh ...",
+    "opsi": [
+      "Kepala negaranya seorang presiden",
+      "Presiden merupakan kepala pemerintahan",
+      "Kedudukan kabinet sederajat dengan parlemen",
+      "Presiden memegang kekuasaan tertinggi dalam negara",
+      "Adanya wakil presiden"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Karakteristik utama sistem presidensial adalah Presiden berkedudukan rangkap sebagai kepala negara sekaligus kepala pemerintahan dan kabinet bertanggung jawab kepada Presiden."
+  },
+  {
+    "id": 18,
+    "kategori": "TWK",
+    "pertanyaan": "Ada bermacam-macam istilah demokrasi, demokrasi yang menonjolkan kebebasan individu adalah ...",
+    "opsi": [
+      "Demokrasi langsung",
+      "Demokrasi tidak langsung",
+      "Demokrasi terpimpin",
+      "Demokrasi liberal",
+      "Demokrasi Pancasila"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Demokrasi liberal menekankan pada hak-hak dan kebebasan individu (individualisme) serta membatasi kekuasaan pemerintah melalui hukum formal."
+  },
+  {
+    "id": 19,
+    "kategori": "TWK",
+    "pertanyaan": "Hukum administrasi negara merupakan bagian dari hukum tata negara dalam arti luas, karena hukum administrasi negara adalah ...",
+    "opsi": [
+      "Sekumpulan peraturan hukum yang mengikat badan negara",
+      "Peraturan pelanggaran pegawai negeri",
+      "Peraturan pemberhentian pegawai negeri",
+      "Peraturan pengangkatan pegawai negeri",
+      "Peraturan mengenai tugas pegawai negeri"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Dalam arti luas, Hukum Tata Negara mencakup Hukum Administrasi Negara (HAN), yaitu sekumpulan peraturan hukum yang mengatur dan mengikat alat-alat perlengkapan (badan) negara dalam menjalankan wewenang serta tugas pemerintahannya."
+  },
+  {
+    "id": 20,
+    "kategori": "TWK",
+    "pertanyaan": "Proses pembuatan ketetapan MPR tahap II adalah ...",
+    "opsi": [
+      "Pembahasan rapat paripurna Majelis didahului dengan penjelasan",
+      "Pembahasan keputusan rapat paripurna Majelis",
+      "Pembahasan oleh Badan Pekerja majelis terhadap bahan-bahan",
+      "Pembahasan komisi/panitia Ad Hoc terhadap hasil-hasil",
+      "Pengambilan keputusan oleh rapat paripurna Majelis"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Tata tertib pembahasan dalam persidangan MPR diatur bertingkat mulai dari penyusunan materi, pembahasan komisi/panitia ad hoc, hingga pengambilan keputusan akhir pada rapat paripurna."
+  },
+  {
+    "id": 21,
+    "kategori": "TWK",
+    "pertanyaan": "Karena berhasil mengalahkan Portugis, Fatahillah mengganti nama Sunda Kelapa menjadi ...",
+    "opsi": [
+      "Batavia",
+      "Jakarta",
+      "Jayakarta",
+      "Betawi",
+      "Jawa Barat"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Setelah memukul mundur armada Portugis pada tanggal 22 Juni 1527, Fatahillah mengubah nama Sunda Kelapa menjadi Jayakarta yang bermakna 'kemenangan yang gilang-gemilang'."
+  },
+  {
+    "id": 22,
+    "kategori": "TWK",
+    "pertanyaan": "Agama Islam di Indonesia mulanya berkembang di daerah pesisir/pantai Sumatra dan Jawa. Hal tersebut dikarenakan ...",
+    "opsi": [
+      "Di daerah pesisir udaranya sejuk",
+      "di daerah pesisir padat penduduknya",
+      "Disebarkan melalui perdagangan laut",
+      "Penduduk pesisir masih bodoh",
+      "Merupakan pusat kerajaan"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Islam mula-mula masuk dan berkembang pesat di pesisir pantai Sumatra dan Jawa karena dibawa oleh para saudagar muslim dari Gujarat, Persia, dan Arab melalui jalur perdagangan maritim internasional."
+  },
+  {
+    "id": 23,
+    "kategori": "TWK",
+    "pertanyaan": "Konferensi Meja Bundar diselenggarakan di kota ...",
+    "opsi": [
+      "Amsterdam",
+      "Den Haag",
+      "Belgia",
+      "Kolombo",
+      "New York"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Konferensi Meja Bundar (KMB) yang menghasilkan pengacuan kedaulatan Indonesia oleh Belanda diselenggarakan di kota Den Haag, Belanda, mulai 23 Agustus hingga 2 November 1949."
+  },
+  {
+    "id": 24,
+    "kategori": "TWK",
+    "pertanyaan": "Finalis Tujuh Keajaiban Dunia berikut yang berasal dari Negara Spanyol adalah..",
+    "opsi": [
+      "Machu Picchu",
+      "Acropolis",
+      "Stonehenge",
+      "Alhambra",
+      "Timbuktu"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Alhambra adalah kompleks istana dan benteng megah peninggalan kekhalifahan Islam yang terletak di Granada, Andalusia, Spanyol."
+  },
+  {
+    "id": 25,
+    "kategori": "TWK",
+    "pertanyaan": "Yang bukan merupakan negara bagian Amerika Serikat adalah ...",
+    "opsi": [
+      "Idaho",
+      "Wyoming",
+      "Roskilde",
+      "Delaware",
+      "Colorado"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Roskilde adalah kota bersejarah di Denmark (bukan negara bagian Amerika Serikat). Idaho, Wyoming, Delaware, dan Colorado merupakan negara bagian resmi di AS."
+  },
+  {
+    "id": 26,
+    "kategori": "TWK",
+    "pertanyaan": "Lagu daerah Potong Bebek Angsa berasal dari Provinsi ...",
+    "opsi": [
+      "Nusa Tenggara Barat",
+      "Nusa Tenggara Timur",
+      "Maluku",
+      "Papua",
+      "Kalimantan Barat"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Lagu daerah 'Potong Bebek Angsa' adalah lagu daerah terkenal yang berasal dari Provinsi Nusa Tenggara Timur (NTT)."
+  },
+  {
+    "id": 27,
+    "kategori": "TWK",
+    "pertanyaan": "Perang Dunia I berakhir pada tahun ...",
+    "opsi": [
+      "1914",
+      "1916",
+      "1918",
+      "1921",
+      "1924"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Perang Dunia I resmi berakhir setelah gencatan senjata (Armistice) ditandatangani pada tanggal 11 November 1918."
+  },
+  {
+    "id": 28,
+    "kategori": "TWK",
+    "pertanyaan": "PBI adalah organisasi Nasional untuk olahraga ...",
+    "opsi": [
+      "Bowling",
+      "Bridge",
+      "Bulutangkis",
+      "Baseball",
+      "Berkuda"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "PBI adalah singkatan dari Persatuan Boling Indonesia, induk organisasi olahraga boling resmi di Indonesia di bawah naungan KONI."
+  },
+  {
+    "id": 29,
+    "kategori": "TWK",
+    "pertanyaan": "Kerajaan Sriwijaya terkenal sebagai kerajaan maritim yang kuat dan jaya. Hal tersebut dikarenakan ...",
+    "opsi": [
+      "Mempunyai armada laut yang kuat dan hidup dari perdagangan laut",
+      "Mengadakan hubungan dagang dengan berbagai negara",
+      "Menjadi pusat perdagangan di Asia Tenggara",
+      "Letak persimpangan jalur perdagangan antara India dan Cina",
+      "Memiliki raja yang berkuasa"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Kerajaan Sriwijaya berkembang menjadi kerajaan maritim terbesar di Asia Tenggara karena memiliki armada angkatan laut yang kuat serta menguasai jalur pelayaran strategis Selat Malaka dan Selat Sunda."
+  },
+  {
+    "id": 30,
+    "kategori": "TWK",
+    "pertanyaan": "Tujuan diselenggarakannya Konferensi Asia Afrika di antaranya ...",
+    "opsi": [
+      "Ikut mengawasi perdamaian dunia",
+      "Mempererat serta menggalang persatuan",
+      "Mempersatukan kerja sama bangsa-bangsa Asia",
+      "Mempererat serta menggalang persatuan dan ikut mengawasi perdamaian dunia",
+      "Meredakan ketegangan antara blok Barat dan Timur"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Konferensi Asia Afrika (KAA) di Bandung tahun 1955 bertujuan mempererat solidaritas, kerja sama, dan persatuan antarbangsa Asia-Afrika serta meredakan ketegangan Perang Dingin."
+  },
+  {
+    "id": 31,
+    "kategori": "TWK",
+    "pertanyaan": "Setelah Perang Dunia II berakhir, muncul dua kekuatan, yaitu Blok Barat dan Blok Timur. Blok Barat dipimpin oleh negara ...",
+    "opsi": [
+      "Inggris",
+      "Perancis",
+      "Amerika Serikat",
+      "Kanada",
+      "Belanda"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Setelah Perang Dunia II, Blok Barat dipimpin oleh Amerika Serikat dengan aliansi NATO, sedangkan Blok Timur dipimpin oleh Uni Soviet dengan Pakta Warsawa."
+  },
+  {
+    "id": 32,
+    "kategori": "TWK",
+    "pertanyaan": "Sebagian naskah kuno dari Provinsi Lampung diketahui justru tersimpan di lembaga-lembaga asing di luar negeri. Penambahan koleksi benda-benda bersejarah di museum negeri Lampung terkendala terbatasnya dana. Hal itu diungkapkan Pulung Swandaru, Kepala Museum Negeri Lampung Ruwai Jurai. Ia prihatin dengan kenyataan, ternyata banyak naskah kuno Lampung serta benda bersejarah lainnya yang dikoleksi bangsa asing. Berdasarkan teks di atas unsur what (apa) yang tersurat di dalamnya adalah ...",
+    "opsi": [
+      "Keprihatinan terhadap naskah kuno Lampung.",
+      "Museum negeri Lampung menyimpan naskah kuno asing",
+      "Naskah kuno Lampung sebagian tersimpan di luar negeri",
+      "Naskah kuno Lampung memakai bahasa asing",
+      "Penyesalan karena naskah kuno Lampung ada di luar negeri"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Unsur 'what' (apa inti peristiwa) dari teks tersebut adalah fakta bahwa sebagian naskah kuno bersejarah dari Provinsi Lampung justru tersimpan di berbagai lembaga luar negeri."
+  },
+  {
+    "id": 33,
+    "kategori": "TWK",
+    "pertanyaan": "Kalimat berikut ini adalah baku, kecuali...",
+    "opsi": [
+      "Berdasarkan data Pemprov Lampung, naskah-naskah kuno ini tersebar di Belanda, Denmark, Inggris, dan Jerman.",
+      "Di Leiden, setidaknya ada 5 buah naskah kuno yang disimpan bersama-sama koleksi dari Maluku.",
+      "Anggaran pengadaan koleksi baru benda bersejarah di museum ini hanya Rp 40 – 70 juta per tahun.",
+      "Penambahan koleksi benda-benda bersejarah di museum negeri Lampung terkendala terbatasnya dana.",
+      "Ia mencontohkan, pernah suatu ketika pihaknya berniat membeli uang acuan eks karesidenan Lampung tahun 1958."
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Kalimat C tidak baku karena penulisan tanda hubung rentang bilangan yang tidak konsisten atau penulisan nilai nominal, sedangkan opsi lainnya menggunakan struktur ejaan yang lebih baku."
+  },
+  {
+    "id": 34,
+    "kategori": "TWK",
+    "pertanyaan": "Akar tanaman bakau melengkung besar-besar. Kata reduplikasi berikut yang bermakna sama dengan kata reduplikasi dalam kalimat tersebut adalah ...",
+    "opsi": [
+      "Program KB membatasi jumlah anak-anak dalam suatu keluarga.",
+      "Aku tidak menerima telepon bila ada yang menghubungiku malam-malam.",
+      "Lulusan Perguruan Tinggi dalam negeri tidak kalah pintar-pintar dengan lulusan luar negeri.",
+      "Pada jam istirahat, kami membeli makanan kecil dan lauk pauk di kantin kantor.",
+      "Bila ada maunya, gadis kecil itu bermanja-manja pada ibunya."
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Kata reduplikasi 'besar-besar' bermakna jamak yang menyatakan sifat banyak ('semuanya besar'). Makna ini setara dengan 'pintar-pintar' pada opsi C ('semuanya pintar')."
+  },
+  {
+    "id": 35,
+    "kategori": "TWK",
+    "pertanyaan": "Penulisan nama dan gelar yang benar adalah ...",
+    "opsi": [
+      "Sutinah Pertiwi, S. H.",
+      "Moh Indrawan Setyo Hadi M. Pd.",
+      "Hj Rusti Sariringsih.",
+      "Dr. Laila Sari Devi",
+      "Rusli Hadiningrat, S. S"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Penulisan gelar dokter/doktor di depan nama tanpa tanda koma: 'Dr. Laila Sari Devi'. Opsi A salah spasi pada singkatan (seharusnya S.H. tanpa spasi antartitik), B tidak ada titik pada singkatan nama."
+  },
+  {
+    "id": 36,
+    "kategori": "TIU",
+    "pertanyaan": "GETIR =",
+    "opsi": [
+      "Manis",
+      "Sakit",
+      "Pedas",
+      "Nyeri",
+      "Pahit"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Sinonim kata 'GETIR' menurut KBBI adalah rasa pahit agak pedas, atau kiasan bagi rasa susah/pahitnya hidup. Pilihan paling tepat adalah Pahit."
+  },
+  {
+    "id": 37,
+    "kategori": "TIU",
+    "pertanyaan": "BANDELA =",
+    "opsi": [
+      "Peti kemas",
+      "Bendera",
+      "Lambang",
+      "Simbol",
+      "Umbul-umbul"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "BANDELA dalam KBBI adalah bungkusan besar barang dagangan (bal) yang dibungkus kain terpal atau peti kemas untuk pengiriman."
+  },
+  {
+    "id": 38,
+    "kategori": "TIU",
+    "pertanyaan": "MUKADIMAH =",
+    "opsi": [
+      "Atas",
+      "Pengantar",
+      "Penutup",
+      "Isi",
+      "Pembukaan"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "MUKADIMAH diserap dari bahasa Arab yang bermakna pendahuluan, pengantar, atau kata pembukaan."
+  },
+  {
+    "id": 39,
+    "kategori": "TIU",
+    "pertanyaan": "SINKRON>< ...",
+    "opsi": [
+      "Selaras",
+      "Serasi",
+      "Berbeda",
+      "Harmonis",
+      "Sesuai"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "SINKRON bermakna serentak, selaras, atau seirama. Antonim dari kata sinkron adalah berbeda, tidak selaras, atau asinkron."
+  },
+  {
+    "id": 40,
+    "kategori": "TIU",
+    "pertanyaan": "NEKAT>< ...",
+    "opsi": [
+      "Niat",
+      "Motif",
+      "Maksud",
+      "Berani",
+      "Takut"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "NEKAT bermakna berani berbuat tanpa berpikir panjang, tidak gentar akan bahaya. Lawan kata yang paling kontras adalah Takut atau Ragu-ragu."
+  },
+  {
+    "id": 41,
+    "kategori": "TIU",
+    "pertanyaan": "EKLEKTIK>< ...",
+    "opsi": [
+      "Tunjuk",
+      "Campur",
+      "Kolot",
+      "Pilih",
+      "Tak pilih-pilih"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "EKLEKTIK bermakna memilih atau menyeleksi dari berbagai sumber terbaik. Antonimnya adalah 'tak pilih-pilih' atau menerima apa adanya tanpa seleksi."
+  },
+  {
+    "id": 42,
+    "kategori": "TIU",
+    "pertanyaan": "BURUNG : SARANG = ... : ...",
+    "opsi": [
+      "Orang : Rumah",
+      "Murid : Sekolah",
+      "Dompet : Uang",
+      "Kandang : Kambing",
+      "Rapat : Gedung"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Hubungan analogi fungsi tempat tinggal: Burung tinggal di sarang, sebagaimana Manusia (orang) tinggal di rumah."
+  },
+  {
+    "id": 43,
+    "kategori": "TIU",
+    "pertanyaan": "SELASA : KAMIS = ... : …",
+    "opsi": [
+      "Januari : Maret",
+      "Menit : Jam",
+      "Jam : Hari",
+      "Mei : Agustus",
+      "Gelap : Terang"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Hubungan analogi melompati satu urutan: Selasa melompati satu hari (Rabu) menjadi Kamis; Januari melompati satu bulan (Februari) menjadi Maret."
+  },
+  {
+    "id": 44,
+    "kategori": "TIU",
+    "pertanyaan": "DINIHARI : SENJA = ... : ...",
+    "opsi": [
+      "Kakak : Anak",
+      "Barat : Selatan",
+      "Siang : Malam",
+      "Sepatu : Tas",
+      "Menit : Detik"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Hubungan analogi titik awal dan akhir fase waktu dalam satu hari: Dinihari dan Senja berbanding lurus dengan fase Siang dan Malam."
+  },
+  {
+    "id": 45,
+    "kategori": "TIU",
+    "pertanyaan": "BURUNG : EKOR = ... : ...",
+    "opsi": [
+      "Gajah : Belalai",
+      "Kapal : Buritan",
+      "Kucing : Bulu",
+      "Harimau : Taring",
+      "Rusa : Tanduk"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Hubungan analogi bagian belakang: Bagian paling belakang dari burung adalah ekor, dan bagian paling belakang dari kapal adalah buritan."
+  },
+  {
+    "id": 46,
+    "kategori": "TIU",
+    "pertanyaan": "Kartamarma menjual mobilnya seharga Rp 10.000.000 dan ternyata rugi 66 2/3 %. Berapakah harga beli mobil tersebut?",
+    "opsi": [
+      "Rp 30.000.000",
+      "Rp 33.000.000",
+      "Rp 34.000.000",
+      "Rp 35.000.000",
+      "Rp 12.000.000"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Rugi 66 2/3% = 200/3% = 2/3. Berarti harga jual = (1 - 2/3) x Harga Beli = 1/3 x Harga Beli. Karena Harga Jual = Rp 10.000.000, maka Harga Beli = 3 x Rp 10.000.000 = Rp 30.000.000."
+  },
+  {
+    "id": 47,
+    "kategori": "TIU",
+    "pertanyaan": "Berapakah biaya yang diperlukan untuk mengecat dinding setinggi 4 m dan panjangnya 13 m, jika biaya mengecat ditetapkan Rp 4.500/m²?",
+    "opsi": [
+      "Rp 207.000",
+      "Rp 216.000",
+      "Rp 225.000",
+      "Rp 234.000",
+      "Rp 243.000"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Luas dinding = panjang x tinggi = 13 m x 4 m = 52 m². Total biaya pengecatan = 52 m² x Rp 4.500/m² = Rp 234.000."
+  },
+  {
+    "id": 48,
+    "kategori": "TIU",
+    "pertanyaan": "Dursasana bekerja selama 6 jam/hari. Jika dia mulai bekerja jam 08.00, maka jam berapakah ia selesai?",
+    "opsi": [
+      "14.45",
+      "12.00",
+      "13.30",
+      "02.00",
+      "14.00"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Waktu selesai = Waktu mulai + Durasi bekerja = 08.00 + 6 jam = 14.00."
+  },
+  {
+    "id": 49,
+    "kategori": "TIU",
+    "pertanyaan": "Suatu selokan mempunyai penampang berbentuk trapesium dengan panjang sisi-sisi sejajarnya 3 m dan 1,5 m dan panjang selokan 15 km. Berapakah volume air maksimum yang dapat ditampung oleh selokan, jika tinggi selokan 0,2 m.",
+    "opsi": [
+      "6750 m3",
+      "675 m3",
+      "67,5 m3",
+      "6,75 m3",
+      "0,675 m3"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Luas penampang trapesium = 1/2 x (jumlah sisi sejajar) x tinggi = 1/2 x (3 + 1,5) x 0,2 = 1/2 x 4,5 x 0,2 = 0,45 m². Panjang selokan = 15 km = 15.000 m. Volume air maksimum = Luas x Panjang = 0,45 m² x 15.000 m = 6.750 m³."
+  },
+  {
+    "id": 50,
+    "kategori": "TIU",
+    "pertanyaan": "Tentukan himpunan penyelesaian dari 3x – 4 > 5 + 2x!",
+    "opsi": [
+      "x < 9",
+      "x < 1",
+      "x > -9",
+      "x > 9",
+      "x > -1"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Pertidaksamaan: 3x - 4 > 5 + 2x. Pindahkan suku sejenis: 3x - 2x > 5 + 4 => x > 9."
+  },
+  {
+    "id": 51,
+    "kategori": "TIU",
+    "pertanyaan": "Jika x = 2,4 – 1,98 + 0,009 dan y = 5,08, maka ...",
+    "opsi": [
+      "x = y",
+      "x < y",
+      "x > y",
+      "x ≈ y",
+      "x ≅ y"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Hitung nilai x: x = 2,4 - 1,98 + 0,009 = 0,42 + 0,009 = 0,429. Nilai y = 5,08. Jelas terlihat bahwa x < y (0,429 < 5,08)."
+  },
+  {
+    "id": 52,
+    "kategori": "TIU",
+    "pertanyaan": "Pada seleksi CPNS, sebanyak 200 peserta mengikutinya. Jika diketahui terdapat 5/6 dari 120 peserta perempuan diterima departemen kehutanan dan sisanya diterima di departemen pertanian, serta ¾ dari 80 peserta laki-laki diterima di departemen pertanian dan sisanya di departemen kehutanan, maka persentase siswa laki-laki terhadap siswa perempuan yang diterima di departemen kehutanan adalah ...",
+    "opsi": [
+      "10%",
+      "15%",
+      "20%",
+      "34%",
+      "41%"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Peserta perempuan di kehutanan = 5/6 x 120 = 100 orang. Peserta laki-laki di kehutanan = Total laki-laki - Laki-laki di pertanian = 80 - (3/4 x 80) = 80 - 60 = 20 orang. Persentase laki-laki terhadap perempuan di kehutanan = (20 / 100) x 100% = 20%."
+  },
+  {
+    "id": 53,
+    "kategori": "TIU",
+    "pertanyaan": "Diketahui lamanya belajar mandiri siswa sebanding dengan nilai ujian. Jika siswa dengan nilai ujian 90 melakukan belajar mandiri 12 jam/hari, maka lamanya belajar mandiri siswa dengan nilai 60 adalah ...",
+    "opsi": [
+      "112,5 jam/hari",
+      "24 jam/hari",
+      "18 jam/hari",
+      "8 jam/hari",
+      "6 jam/hari"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Perbandingan senilai: Nilai 1 / Waktu 1 = Nilai 2 / Waktu 2 => 90 / 12 = 60 / Waktu 2 => Waktu 2 = (60 x 12) / 90 = 720 / 90 = 8 jam/hari."
+  },
+  {
+    "id": 54,
+    "kategori": "TIU",
+    "pertanyaan": "Durna berjalan selama 2 jam dan menempuh jarak 8,7 km. Pada paruh jam pertama ditempuh 3 km, paruh jam ke-2 ditempuh 1 km, paruh jam ke-3 ditempuh 4,5 km. Berapakah meter yang ditempuh pada paruh jam ke-4?",
+    "opsi": [
+      "25 m",
+      "50 m",
+      "100 m",
+      "150 m",
+      "200 m"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Total jarak = 8,7 km. Jarak paruh 1 + 2 + 3 = 3 km + 1 km + 4,5 km = 8,5 km. Maka paruh ke-4 menempuh jarak = 8,7 km - 8,5 km = 0,2 km = 200 meter."
+  },
+  {
+    "id": 55,
+    "kategori": "TIU",
+    "pertanyaan": "Suatu mobil menempuh jarak 7 km dalam 15 menit. Berapakah rata-rata jarak tempuh mobil dalam 1 jam?",
+    "opsi": [
+      "20 km",
+      "22 km",
+      "26 km",
+      "27 km",
+      "28 km"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Dalam 15 menit menempuh 7 km. Karena 1 jam = 4 x 15 menit, maka jarak tempuh dalam 1 jam = 4 x 7 km = 28 km."
+  },
+  {
+    "id": 56,
+    "kategori": "TIU",
+    "pertanyaan": "Seratus siswa di sekolah X mengikuti tes seleksi beasiswa dan skor rata-ratanya adalah 100. Banyaknya siswa kelas I yang mengikuti seleksi tersebut 50% lebih banyak dari siswa kelas II, dan skor rata-rata siswa kelas II 50% lebih tinggi dari skor rata-rata siswa kelas I. Skor rata-rata siswa kelas II adalah ...",
+    "opsi": [
+      "83,33",
+      "125",
+      "60",
+      "40",
+      "55"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Misalkan jumlah siswa kelas II = k, maka siswa kelas I = 1,5k. Total siswa = 2,5k = 100, sehingga k = 40 (kelas II) dan kelas I = 60 siswa. Misalkan rata-rata kelas I = x, maka rata-rata kelas II = 1,5x. Total nilai: (60 x x) + (40 x 1,5x) = 60x + 60x = 120x = 100 x 100 = 10.000 => x = 83,33. Maka rata-rata kelas II = 1,5 x 83,33 = 125."
+  },
+  {
+    "id": 57,
+    "kategori": "TIU",
+    "pertanyaan": "Berapakah yang harus dikurangi dari penjumlahan ½ dan 1/3 agar diperoleh rata-rata 1/6?",
+    "opsi": [
+      "1/3",
+      "¼",
+      "4/5",
+      "½",
+      "¾"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Penjumlahan: 1/2 + 1/3 = 5/6. Misalkan bilangan pengurang adalah z. Rata-rata dari nilai yang diperoleh setelah dikurangi adalah (5/6 - z) / 2 = 1/6 => 5/6 - z = 2/6 => z = 3/6 = 1/2."
+  },
+  {
+    "id": 58,
+    "kategori": "TIU",
+    "pertanyaan": "A C E G I ...",
+    "opsi": [
+      "K dan M",
+      "J dan L",
+      "K dan N",
+      "J dan N",
+      "K dan J"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Pola deret huruf melompat satu huruf abjad (+2): A (+2) C (+2) E (+2) G (+2) I (+2) K (+2) M. Jadi dua huruf berikutnya adalah K dan M."
+  },
+  {
+    "id": 59,
+    "kategori": "TIU",
+    "pertanyaan": "A B D G K ...",
+    "opsi": [
+      "P dan V",
+      "O dan V",
+      "P dan U",
+      "N dan O",
+      "M dan P"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Pola selisih urutan abjad bertingkat: A(1) +1 = B(2); B(2) +2 = D(4); D(4) +3 = G(7); G(7) +4 = K(11); K(11) +5 = P(16); P(16) +6 = V(22). Huruf lanjutannya adalah P dan V."
+  },
+  {
+    "id": 60,
+    "kategori": "TIU",
+    "pertanyaan": "212, 101, 111, 212, -101, -111, -212, -101, ..., ...",
+    "opsi": [
+      "111, -212",
+      "-111, 101",
+      "-101, 111",
+      "-111, -212",
+      "101, -111"
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Pola angka berkelompok tiga bilangan yang bergantian tanda: Kelompok pertama [212, 101, 111], kelompok kedua [212, -101, -111], dan kelompok ketiga [-212, -101, -111]. Setelah angka -101 pada kelompok ketiga, dua angka berikutnya adalah -111 dan -212."
+  },
+  {
+    "id": 61,
+    "kategori": "TIU",
+    "pertanyaan": "Semua pohon bercabang dan berakar. Tanaman A berakar, tetapi tidak bercabang. Kesimpulan yang tepat adalah ...",
+    "opsi": [
+      "Tanaman A adalah pohon yang berakar.",
+      "Tanaman A adalah pohon yang tidak bercabang.",
+      "Tanaman A adalah pohon yang berakar dan tidak bercabang.",
+      "Tanaman A adalah bukan pohon bercabang.",
+      "Tanaman A adalah bukan pohon."
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Premis 1: Semua pohon bercabang dan berakar (Pohon -> Bercabang DAN Berakar). Premis 2: Tanaman A berakar, tetapi TIDAK bercabang. Berdasarkan hukum kontraposisi (Modus Tollens), karena Tanaman A tidak memenuhi syarat bercabang, maka kesimpulan pastinya adalah: Tanaman A bukan pohon."
+  },
+  {
+    "id": 62,
+    "kategori": "TIU",
+    "pertanyaan": "Semua santri pandai berbahasa Arab. Santri yang pandai berbahasa Arab pandai pula berpidato. Sebagian santri yang pandai berpidato tidak suka matematika.",
+    "opsi": [
+      "Sebagian santri tidak suka matematika dan tidak pandai berbahasa Arab.",
+      "Sebagian santri suka matematika dan pandai berbahasa Arab.",
+      "Sebagian santri suka matematika tetapi tidak pandai berbahasa Arab.",
+      "Sebagian santri suka matematika dan tidak pandai berbahasa Arab.",
+      "Sebagian santri suka matematika tetapi tidak suka berbahasa Arab."
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Premis 1: Semua santri pandai berbahasa Arab. Premis 2: Santri yang pandai berbahasa Arab pandai pula berpidato. Premis 3: Sebagian santri yang pandai berpidato tidak suka matematika. Dari sini dapat disimpulkan bahwa sebagian santri suka matematika dan mereka tetap pandai berbahasa Arab."
+  },
+  {
+    "id": 63,
+    "kategori": "TIU",
+    "pertanyaan": "Semua wanita senang perhiasan dan kosmetik. A tidak senang kosmetik, tetapi senang perhiasan.",
+    "opsi": [
+      "A wanita yang tidak senang kosmetik.",
+      "A wanita yang senang perhiasan.",
+      "A wanita yang tidak senang kosmetik, meskipun senang perhiasan.",
+      "A bukan wanita, meskipun senang perhiasan.",
+      "A bukan wanita, ia senang kosmetik."
+    ],
+    "kunci_jawaban": "D",
+    "bobot_tkp": null,
+    "pembahasan": "Premis: Semua wanita senang perhiasan dan kosmetik. Fakta: A tidak senang kosmetik (meskipun senang perhiasan). Karena syarat mutlak 'wanita' dalam premis adalah senang keduanya (perhiasan DAN kosmetik), ingkaran terhadap kosmetik membuktikan secara silogisme bahwa A bukan wanita."
+  },
+  {
+    "id": 64,
+    "kategori": "TIU",
+    "pertanyaan": "Asal ada, kecil pun pada. Makna peribahasa di atas adalah ...",
+    "opsi": [
+      "Harta benda bukanlah yang utama, tetapi kesehatan yang penting",
+      "Bersenang hatilah dengan apa yang didapat walaupun sedikit",
+      "Uang sedikit lebih baik daripada tidak ada",
+      "Menjadi orang harus memberi manfaat, walaupun sedikit",
+      "Orang harus bersyukur atas nikmat"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Peribahasa 'Asal ada, kecil pun pada' bermakna rasa syukur dan bersenang hati menerima apa yang didapat meskipun dalam jumlah sedikit, daripada tidak ada sama sekali."
+  },
+  {
+    "id": 65,
+    "kategori": "TIU",
+    "pertanyaan": "Seperti anjing menggonggong tulang. Makna peribahasa di atas adalah ...",
+    "opsi": [
+      "Orang yang loba dan tamak tak pernah puas dengan apa yang ada",
+      "Keserakahan akan membuat manusia menjadi seperti hewan",
+      "Manusia selalu tidak merasa puas",
+      "Manusia selalu berusaha mendapatkan apa yang ia inginkan",
+      "Orang yang ingin menunjukkan kelebihan pada orang lain yang lebih daripada dirinya"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Peribahasa 'Seperti anjing menggonggong tulang' mengibaratkan orang yang sangat tamak dan loba yang tidak pernah puas dengan apa yang sudah dimilikinya."
+  },
+  {
+    "id": 66,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika saya mengalami kegagalan, saya cenderung ...",
+    "opsi": [
+      "Merasa bodoh dan putus asa",
+      "Merasa sedih dan marah",
+      "Mencari sumber kegagalan saya",
+      "Biasa saja seperti tidak terjadi apa-apa",
+      "Melupakan kegagalan dan menatap ke depan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      3,
+      5,
+      1,
+      4
+    ],
+    "pembahasan": "Aspek integritas dan ketahanan mental: Ketika mengalami kegagalan, sikap paling konstruktif adalah mengevaluasi diri secara objektif untuk mencari sumber kegagalan agar tidak terulang kembali (Poin 5: C)."
+  },
+  {
+    "id": 67,
+    "kategori": "TKP",
+    "pertanyaan": "Teman-teman senang menceritakan masalah mereka kepada saya, karena menurut mereka saya ...",
+    "opsi": [
+      "Mampu menjaga rahasia",
+      "Pendengar yang baik",
+      "Memberikan solusi terbaik",
+      "Bisa melihat masalah dari sudut pandang",
+      "Mampu menumbuhkan semangat mereka"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      3,
+      5,
+      4,
+      1,
+      2
+    ],
+    "pembahasan": "Aspek jejaring kerja dan komunikasi interpersonal: Menjadi pendengar yang baik (active listening) adalah kualitas utama yang membuat rekan kerja merasa dihargai dan nyaman berbagi (Poin 5: B)."
+  },
+  {
+    "id": 68,
+    "kategori": "TKP",
+    "pertanyaan": "Di kantor saya ditugaskan di bagian pelayanan. Suatu hari ada seorang tamu yang sangat rewel. Saya akan ...",
+    "opsi": [
+      "Melayani dengan malas-malasan",
+      "Meminta teman lain untuk melayaninya",
+      "Melayani seperti biasa dan memberikan yang terbaik",
+      "Melaporkan kepada atasan",
+      "Melakukan yang bisa saya lakukan dan tidak melayani yang tidak bisa saya lakukan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      1,
+      5,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek orientasi pelayanan publik: Petugas pelayanan wajib menunjukkan profesionalisme tinggi dan kesabaran melayani semua jenis tamu dengan standar terbaik tanpa diskriminasi (Poin 5: C)."
+  },
+  {
+    "id": 69,
+    "kategori": "TKP",
+    "pertanyaan": "Saya sudah bekerja lama di sebuah perusahaan dan tidak juga mendapat promosi jabatan. Suatu hari, rekan kerja saya yang baru beberapa bulan bekerja mendapatkan promosi jabatan. Saya ...",
+    "opsi": [
+      "Pasti ada persekongkolan",
+      "Pasti giliran saya akan datang juga",
+      "Meningkatkan kinerja agar mendapat kesempatan promosi",
+      "Tetap bekerja seperti biasa",
+      "Tidak terima dan memutuskan keluar dari perusahaan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      3,
+      5,
+      4,
+      2
+    ],
+    "pembahasan": "Aspek motivasi berprestasi dan integritas: Kunci keberhasilan karier adalah introspeksi diri dan memacu peningkatan kinerja nyata, bukan berpikiran negatif atau berprasangka buruk (Poin 5: C)."
+  },
+  {
+    "id": 70,
+    "kategori": "TKP",
+    "pertanyaan": "Saya sangat senang dengan atasan yang...",
+    "opsi": [
+      "Dekat dengan anak buah",
+      "Disiplin dan mempunyai etos kerja tinggi",
+      "Bertanggung jawab",
+      "Mau mendengar masukan dari bawahan",
+      "Memberi tahu hal-hal yang harus dikerjakan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      4,
+      3,
+      5,
+      1
+    ],
+    "pembahasan": "Aspek kepemimpinan kolaboratif: Pimpinan yang terbuka dan mau mendengarkan masukan bawahan menciptakan iklim kerja yang partisipatif dan produktif (Poin 5: D)."
+  },
+  {
+    "id": 71,
+    "kategori": "TKP",
+    "pertanyaan": "Saya senang melakukan pekerjaan yang...",
+    "opsi": [
+      "Saya senangi",
+      "Penuh tantangan",
+      "Sesuai kemampuan",
+      "Seperti rutinitas biasa",
+      "Tidak memiliki risiko"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      4,
+      5,
+      3,
+      2,
+      1
+    ],
+    "pembahasan": "Aspek dorongan berprestasi: Pegawai yang unggul selalu termotivasi dengan pekerjaan yang penuh tantangan baru untuk mengembangkan kapasitas diri melampaui zona nyaman (Poin 5: B)."
+  },
+  {
+    "id": 72,
+    "kategori": "TKP",
+    "pertanyaan": "Sebagai pegawai, hal terpenting yang harus dilakukan menurut saya ...",
+    "opsi": [
+      "Melakukan pekerjaan dengan standar kinerja yang baik",
+      "Menciptakan hubungan yang baik dan situasi yang nyaman dengan semua orang di kantor",
+      "Patuh dan loyal kepada atasan",
+      "Melakukan pekerjaan seperti yang sudah ditentukan oleh perusahaan",
+      "Menciptakan terobosan-terobosan untuk kemajuan perusahaan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      4,
+      3,
+      1,
+      2,
+      5
+    ],
+    "pembahasan": "Aspek inovasi dan profesionalisme: ASN masa kini dituntut tidak hanya bekerja rutinitas, tetapi mampu melahirkan terobosan dan inovasi yang memajukan instansi (Poin 5: E)."
+  },
+  {
+    "id": 73,
+    "kategori": "TKP",
+    "pertanyaan": "Karena suatu permasalahan, kantor saya mengalami keterlambatan pembayaran gaji karyawan. Padahal anak saya sangat membutuhkan uang untuk membayar biaya sekolah. Yang saya lakukan ...",
+    "opsi": [
+      "Bekerja di luar kantor untuk mendapatkan uang itu",
+      "Meminta bantuan atasan",
+      "Meminta kepada orang tua atau saudara",
+      "Mencari pinjaman kepada teman",
+      "Mendesak kantor untuk segera mengeluarkan gaji saya"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      3,
+      2,
+      4,
+      1
+    ],
+    "pembahasan": "Aspek tanggung jawab pribadi dan ketahanan: Menghadapi masalah finansial tanpa mengorbankan integritas kantor, mencari solusi mandiri yang sah dan tidak mengganggu jam kerja (Poin 5: A/D)."
+  },
+  {
+    "id": 74,
+    "kategori": "TKP",
+    "pertanyaan": "Saya termasuk pegawai yang berprestasi di kantor saya. Suatu waktu, perusahaan saingan kantor saya menawarkan pekerjaan dengan gaji yang lebih besar dari yang saya terima di perusahaan saat ini. Saya akan ...",
+    "opsi": [
+      "Tanpa berpikir panjang segera mengambil tawaran tersebut",
+      "Menolak tawaran tersebut, bagi saya uang bukan segalanya",
+      "Mempertimbangkan tawaran tersebut dengan keluarga",
+      "Memanfaatkan adanya tawaran tersebut untuk meminta kenaikan gaji",
+      "Melaporkan tindakan perusahaan saingan tersebut kepada atasan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      3,
+      5,
+      4,
+      1,
+      2
+    ],
+    "pembahasan": "Aspek loyalitas dan komitmen organisasi: Menunjukkan dedikasi tinggi pada instansi dan tidak mudah goyah hanya karena iming-iming materi sesaat (Poin 5: B)."
+  },
+  {
+    "id": 75,
+    "kategori": "TKP",
+    "pertanyaan": "Pada suatu hari libur handphone saya berbunyi, tampak panggilan dari atasan. Biasanya atasan akan mengajak bermain tenis. Padahal saya sudah merencanakan untuk pergi piknik bersama keluarga. Saya ...",
+    "opsi": [
+      "Membiarkan saja panggilan itu",
+      "Mengangkat panggilan itu, siapa tahu ada sesuatu yang penting",
+      "Membiarkan panggilan itu, dan menelepon balik ketika sudah sampai di tempat piknik",
+      "Menyuruh orang lain untuk mengangkat panggilan itu",
+      "Mengangkat panggilan dan mengajak atasan untuk piknik bersama"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      3,
+      1,
+      4
+    ],
+    "pembahasan": "Aspek kesiapan dan komitmen kerja: Tanggap terhadap komunikasi pimpinan di luar jam kerja untuk mengantisipasi hal krusial atau kedaruratan instansi (Poin 5: B)."
+  },
+  {
+    "id": 76,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika suasana hati saya sedang tidak baik, biasanya saya ...",
+    "opsi": [
+      "Menjadi mudah marah",
+      "Menjadi malas bekerja",
+      "Tetap bekerja seperti biasa",
+      "Sering melamun",
+      "Bercerita kepada teman saya"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      1,
+      5,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek pengendalian diri (emotional quotient): Tetap profesional menjaga kinerja stabil dan tidak membiarkan suasana hati mengganggu kualitas pekerjaan (Poin 5: C)."
+  },
+  {
+    "id": 77,
+    "kategori": "TKP",
+    "pertanyaan": "Orang tua saya menyarankan saya untuk berpindah tempat kerja. Padahal saya merasa nyaman bekerja di tempat saya bekerja, meskipun gajinya memang cukup kecil. Saya akan ...",
+    "opsi": [
+      "Menuruti saran orang tua dan mencari pekerjaan lain",
+      "Menolak saran orang tua dan tetap bekerja seperti biasa",
+      "Tetap bekerja seperti biasa dan memberikan pengertian kepada orang tua",
+      "Meminta saran dari teman-teman",
+      "Meminta pertimbangan atasan saya"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      2,
+      5,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek komunikasi persuasif dan prinsip hidup: Memberikan pengertian dengan sopan kepada orang tua bahwa kenyamanan dan peluang berkembang di tempat saat ini sangat bernilai (Poin 5: C)."
+  },
+  {
+    "id": 78,
+    "kategori": "TKP",
+    "pertanyaan": "Teman saya mengingkari janjinya untuk mengembalikan uang yang dipinjamnya. Saya akan ...",
+    "opsi": [
+      "Mendatangi dan menagihnya dengan marah-marah",
+      "Mungkin dia belum punya uang untuk mengganti",
+      "Tidak akan meminjamkan uang kepadanya lagi",
+      "Tidak mau berteman lagi dengannya",
+      "Mencarinya dan meminta penjelasan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      4,
+      3,
+      1,
+      5
+    ],
+    "pembahasan": "Aspek komunikasi dan penyelesaian masalah interpersonal: Mengedepankan tabayyun atau komunikasi langsung secara baik-baik untuk meminta penjelasan atas keterlambatan pembayaran tanpa terbawa emosi (Poin 5: E)."
+  },
+  {
+    "id": 79,
+    "kategori": "TKP",
+    "pertanyaan": "Di kantor saya termasuk orang yang ...",
+    "opsi": [
+      "Supel dan mudah akrab",
+      "Disiplin dan pekerja keras",
+      "Ulet dan pantang menyerah",
+      "Pintar dan penuh ide-ide segar",
+      "Bertanggung jawab dan memiliki kepribadian kuat"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      3,
+      4,
+      1,
+      5
+    ],
+    "pembahasan": "Aspek integritas dan profesionalisme: Memiliki rasa tanggung jawab tinggi serta prinsip kepribadian yang kuat merupakan karakter utama ASN yang berintegritas (Poin 5: E)."
+  },
+  {
+    "id": 80,
+    "kategori": "TKP",
+    "pertanyaan": "Saya sangat membutuhkan sebuah buku yang berharga cukup mahal, yang berguna untuk pekerjaan saya. Padahal saat itu kondisi keuangan saya sedang menipis. Saya akan ...",
+    "opsi": [
+      "Menabung untuk mengumpulkan uang untuk membeli buku tersebut",
+      "Meminta kantor untuk membelikan buku itu",
+      "Menunggu sampai ada uang",
+      "Meminjam uang kepada teman",
+      "Mencari pekerjaan sampingan untuk mendapatkan uang"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      2,
+      1,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek kemandirian dan pengelolaan diri: Berinisiatif menabung dan mengatur keuangan secara mandiri demi menunjang kompetensi kerja tanpa membebani kantor maupun orang lain (Poin 5: A)."
+  },
+  {
+    "id": 81,
+    "kategori": "TKP",
+    "pertanyaan": "Sahabat lama saya datang ke kota saya dan ingin menginap di rumah saya. Padahal keadaan rumah saya sangatlah sederhana. Yang saya lakukan ...",
+    "opsi": [
+      "Menolak keinginannya untuk menginap di rumah saya",
+      "Dengan sedikit malu, mengizinkannya menginap di rumah saya",
+      "Menjelaskan kondisi saya dan menyarankannya untuk tidak menginap di rumah saya",
+      "Menyewakannya kamar hotel terbaik di kota saya dan menginapkannya di sana",
+      "Menerimanya dengan apa adanya dan berusaha memberikan yang terbaik"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ],
+    "pembahasan": "Aspek jejaring kerja dan ketulusan sosial: Menyambut tamu atau sahabat dengan penuh ketulusan, rasa percaya diri, serta memberikan pelayanan terbaik sesuai kemampuan (Poin 5: E)."
+  },
+  {
+    "id": 82,
+    "kategori": "TKP",
+    "pertanyaan": "Keadaan yang sering terjadi saat ada pekerjaan kelompok adalah ...",
+    "opsi": [
+      "Semua teman saya terlibat aktif untuk menyelesaikannya",
+      "Tidak semua orang mau mengerjakan pekerjaan tersebut",
+      "Akhirnya saya juga yang harus membereskannya",
+      "Saling mengharapkan ada yang menyelesaikan pekerjaan tersebut",
+      "Pekerjaan akan selesai hanya jika ada yang memulai bekerja"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      3,
+      1,
+      2,
+      4
+    ],
+    "pembahasan": "Aspek kerja sama tim: Membangun sinergi positif di mana seluruh anggota kelompok berpartisipasi aktif dan berbagi tanggung jawab dalam menyelesaikan tugas bersama (Poin 5: A)."
+  },
+  {
+    "id": 83,
+    "kategori": "TKP",
+    "pertanyaan": "Saat menerima pekerjaan besar, saya biasanya ...",
+    "opsi": [
+      "Senang dan berusaha menyelesaikannya dengan hasil memuaskan",
+      "Merasa malas dan menyelesaikannya asal-asalan saja yang penting selesai",
+      "Takut tidak bisa menyelesaikan",
+      "Meminta bantuan teman untuk mengerjakan",
+      "Menganggap itu sebagai pekerjaan biasa"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      1,
+      2,
+      4,
+      3
+    ],
+    "pembahasan": "Aspek semangat berprestasi: Menyambut tugas berskala besar dengan antusias dan berkomitmen penuh menuntaskannya dengan hasil yang optimal (Poin 5: A)."
+  },
+  {
+    "id": 84,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika sedang melaksanakan presentasi, saya menerima kabar bahwa anak saya mengalami kecelakaan dan sekarang dirawat di rumah sakit. Saya akan ...",
+    "opsi": [
+      "Tetap melanjutkan presentasi",
+      "Mencari tahu kondisi anak saya dan kemudian memutuskan apakah tetap presentasi atau ke rumah sakit",
+      "Menghentikan presentasi dan langsung pergi ke rumah sakit",
+      "Menghentikan presentasi dan mencari tahu kondisi anak saya",
+      "Menelepon istri menanyakan kondisi anak saya dan tetap melanjutkan presentasi"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      5,
+      2,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek pengambilan keputusan dalam situasi darurat: Tetap tenang, memverifikasi tingkat kegawatan informasi terlebih dahulu sebelum mengambil keputusan yang proporsional antara tugas penting dan urusan keluarga (Poin 5: B)."
+  },
+  {
+    "id": 85,
+    "kategori": "TKP",
+    "pertanyaan": "Atasan saya menceritakan beberapa informasi yang cukup rahasia dan tidak semua karyawan tahu. Sikap saya ...",
+    "opsi": [
+      "Memberitahukan kepada teman-teman kerja yang lain tentang informasi itu",
+      "Memberitahukan kepada teman-teman kerja bahwa saya diberitahu informasi rahasia, tetapi tidak menceritakan isi informasinya",
+      "Diam saja dan tetap bekerja seperti biasanya",
+      "Hanya bercerita kepada teman dekat saya",
+      "Hanya bercerita jika ada yang tanya"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      2,
+      5,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek integritas dan menjaga kerahasiaan: Memegang teguh amanah pimpinan dengan menjaga kerahasiaan informasi kantor sepenuhnya dan tetap fokus bekerja secara profesional (Poin 5: C)."
+  },
+  {
+    "id": 86,
+    "kategori": "TKP",
+    "pertanyaan": "Menurut saya cara yang tepat untuk mencapai kesuksesan dalam bekerja adalah ...",
+    "opsi": [
+      "Bekerja dengan sepenuh hati",
+      "Mematuhi semua perintah atasan tanpa terkecuali",
+      "Bekerja dengan giat dan berusaha memberikan yang terbaik",
+      "Berusaha menyingkirkan orang lain yang berpotensi menghalangi karier saya",
+      "Bekerja tanpa mengenal waktu"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      4,
+      3,
+      5,
+      1,
+      2
+    ],
+    "pembahasan": "Aspek etos kerja dan orientasi hasil: Kesuksesan profesional diraih melalui kerja keras, ketekunan, dan komitmen untuk selalu memberikan kontribusi terbaik bagi organisasi (Poin 5: C)."
+  },
+  {
+    "id": 87,
+    "kategori": "TKP",
+    "pertanyaan": "Jajaran direksi di tempat saya bekerja mengalami perombakan besar-besaran. Saya ...",
+    "opsi": [
+      "Tidak mau memikirkannya, saya cuma pegawai biasa",
+      "Perubahan direksi adalah hal yang biasa",
+      "Bekerja semakin giat dengan harapan dapat menjadi anggota direksi suatu saat nanti",
+      "Harus cepat-cepat mendekati atasan baru",
+      "Perombakan direksi diperlukan untuk mencapai kemajuan perusahaan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      3,
+      4,
+      1,
+      2,
+      5
+    ],
+    "pembahasan": "Aspek kemampuan beradaptasi terhadap perubahan: Memandang restrukturisasi organisasi secara positif dan konstruktif sebagai langkah strategis untuk kemajuan institusi (Poin 5: E)."
+  },
+  {
+    "id": 88,
+    "kategori": "TKP",
+    "pertanyaan": "Atasan saya memindahkan saya ke bagian lain di mana saya tidak mengenal karyawan-karyawan yang lain. Sikap saya...",
+    "opsi": [
+      "Langsung mengerjakan tugas saya tanpa mempedulikan apa-apa",
+      "Menolak pemindahan bagian tersebut",
+      "Menerima dengan perasaan kecewa dan bekerja malas-malasan agar dipindah lagi",
+      "Berusaha secepatnya mengenal rekan kerja yang lain agar tercipta suasana kerja yang baik",
+      "Menerima pemindahan, tetapi langsung mengajukan permintaan pindah bagian"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      4,
+      2,
+      1,
+      5,
+      3
+    ],
+    "pembahasan": "Aspek adaptasi dan jejaring kerja: Menerima mutasi penugasan dengan lapang dada serta proaktif membangun komunikasi dan keakraban dengan rekan di unit baru (Poin 5: D)."
+  },
+  {
+    "id": 89,
+    "kategori": "TKP",
+    "pertanyaan": "Menurut saya, orang baik adalah ...",
+    "opsi": [
+      "Orang yang selalu menepati janji",
+      "Orang selalu menolong orang lain",
+      "Orang yang bisa memaafkan kesalahan orang lain",
+      "Orang yang tidak pernah berbuat jahat",
+      "Orang yang mampu mengemban amanat"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      3,
+      4,
+      1,
+      5
+    ],
+    "pembahasan": "Aspek amanah dan integritas: Pribadi yang dapat dipercaya adalah sosok yang selalu mampu mengemban dan menjaga amanat yang diberikan (Poin 5: E)."
+  },
+  {
+    "id": 90,
+    "kategori": "TKP",
+    "pertanyaan": "Pimpinan di kantor saya sangat mendikte dan tidak disenangi oleh karyawan. Saya...",
+    "opsi": [
+      "Mengajak teman-teman saya untuk mengadakan demonstrasi kepada pimpinan tersebut",
+      "Tetap bekerja seperti biasa, itu bukan urusan saya",
+      "Mengajukan surat protes atas sikap pimpinan",
+      "Berusaha berbicara dengan pimpinan dan menjelaskan situasi yang terjadi",
+      "Mengajak teman-teman untuk tidak mematuhi perintah atasan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      3,
+      4,
+      5,
+      1
+    ],
+    "pembahasan": "Aspek diplomasi dan penyelesaian konflik: Berani berkomunikasi secara persuasif dan konstruktif dengan pimpinan untuk mencari titik temu (Poin 5: D)."
+  },
+  {
+    "id": 91,
+    "kategori": "TKP",
+    "pertanyaan": "Dalam melaksanakan sebuah pekerjaan yang dipercayakan kepada saya, saya ...",
+    "opsi": [
+      "Selalu menunggu perintah atasan",
+      "Tidak berani mengambil keputusan sendiri",
+      "Berani mengambil keputusan sendiri, tugas itu sudah menjadi tanggung jawab saya",
+      "Selalu meminta pendapat teman yang berpengalaman dalam setiap keputusan yang diambil",
+      "Jika di luar wewenang saya, saya tetap menunggu keputusan atasan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      1,
+      5,
+      4,
+      3
+    ],
+    "pembahasan": "Aspek kemandirian dan tanggung jawab: Berani mengambil keputusan yang tepat atas tugas yang telah didelegasikan dan menjadi tanggung jawabnya (Poin 5: C)."
+  },
+  {
+    "id": 92,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika sedang memimpin sebuah rapat ada seorang teman yang selalu membuat gaduh. Yang saya lakukan ...",
+    "opsi": [
+      "Marah dan menegurnya dengan keras",
+      "Memintanya untuk menjaga sikap",
+      "Marah dan meninggalkan ruangan rapat",
+      "Mengeluarkannya dari rapat",
+      "Tetap melanjutkan rapat"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      4,
+      5,
+      2,
+      3,
+      1
+    ],
+    "pembahasan": "Aspek ketegasan pemimpin: Menjaga ketertiban forum rapat dengan menegur secara santun namun tegas demi kelancaran agenda (Poin 5: B)."
+  },
+  {
+    "id": 93,
+    "kategori": "TKP",
+    "pertanyaan": "Istri teman saya baru saja melahirkan. Saya ingin mengunjunginya, tetapi sedang tidak punya uang untuk membeli kado. Saya akan ...",
+    "opsi": [
+      "Mengunjunginya jika sudah punya uang untuk membeli kado",
+      "Tetap mengunjunginya tanpa membawa kado",
+      "Mengunjungi dan menyusulkan kadonya di lain waktu",
+      "Tidak mengunjunginya",
+      "Meminjam uang untuk membeli kado"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      4,
+      5,
+      1,
+      3
+    ],
+    "pembahasan": "Aspek kepekaan sosial: Mengutamakan kehadiran silaturahmi untuk memberikan dukungan moral dan menyusulkan kado bila kondisi memungkinkan (Poin 5: C)."
+  },
+  {
+    "id": 94,
+    "kategori": "TKP",
+    "pertanyaan": "Tempat saya bekerja mengalami pergantian kepala kantor. Padahal saya sangat dekat dengan kepala kantor yang lama. Saya akan ...",
+    "opsi": [
+      "Berusaha dekat dengan kepala kantor yang baru",
+      "Tidak mau dekat dengan kepala kantor yang baru",
+      "Tidak semangat dalam bekerja",
+      "Segera menyesuaikan diri dengan pola kerja yang baru",
+      "Tidak terpengaruh masalah pergantian kepala kantor"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      4,
+      2,
+      1,
+      5,
+      3
+    ],
+    "pembahasan": "Aspek kemampuan beradaptasi: Segera menyesuaikan diri dengan ritme, kepemimpinan, dan budaya kerja baru secara fleksibel dan positif (Poin 5: D)."
+  },
+  {
+    "id": 95,
+    "kategori": "TKP",
+    "pertanyaan": "Dalam bekerja saya sangat senang jika ...",
+    "opsi": [
+      "Tempat kerja saya mempunyai kondisi yang kondusif",
+      "Apa yang saya lakukan mendapat penghargaan",
+      "Mempunyai rekan kerja yang bisa bekerja sama",
+      "Mempunyai pimpinan yang bisa mengerti bawahan",
+      "Pendapatan yang saya dapatkan besar"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "pembahasan": "Aspek kenyamanan lingkungan kerja: Iklim lingkungan kerja yang kondusif menjadi pendorong utama produktivitas dan kolaborasi efektif (Poin 5: A)."
+  },
+  {
+    "id": 96,
+    "kategori": "TKP",
+    "pertanyaan": "Atasan meminta saya untuk melakukan pekerjaan yang cukup berat. Saya akan...",
+    "opsi": [
+      "Menolak pekerjaan tersebut",
+      "Dengan terpaksa menerimanya",
+      "Meminta waktu untuk mempertimbangkannya",
+      "Tertarik untuk menyelesaikan pekerjaan tersebut",
+      "Menerima pekerjaan tersebut dan kemudian menyerahkan pekerjaan tersebut kepada teman atau bawahan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      2,
+      4,
+      5,
+      3
+    ],
+    "pembahasan": "Aspek antusiasme terhadap tantangan: Menunjukkan kesiapan dan semangat positif menerima penugasan baru yang menantang kompetensi diri (Poin 5: D)."
+  },
+  {
+    "id": 97,
+    "kategori": "TKP",
+    "pertanyaan": "Saya mendapatkan keberhasilan, karena...",
+    "opsi": [
+      "Tidak pernah menyerah menghadapi kegagalan",
+      "Bernasib baik",
+      "Berani menempuh risiko",
+      "Lingkungan membantu saya",
+      "Melakukan hal-hal yang tidak berisiko"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      3,
+      4,
+      2,
+      1
+    ],
+    "pembahasan": "Aspek kegigihan (grit): Pantang menyerah dan terus bangkit belajar dari setiap kegagalan untuk meraih keberhasilan sejati (Poin 5: A)."
+  },
+  {
+    "id": 98,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika menghadapi masalah, saya cenderung ...",
+    "opsi": [
+      "Tidak bersemangat",
+      "Mudah marah",
+      "Bercerita kepada teman",
+      "Bingung dan sedih",
+      "Tetap seperti biasa"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      3,
+      4,
+      1,
+      5
+    ],
+    "pembahasan": "Aspek pengendalian diri dan ketenangan: Tetap bersikap tenang, terkendali, dan tidak panik saat menghadapi masalah agar dapat mencari solusi secara jernih (Poin 5: E)."
+  },
+  {
+    "id": 99,
+    "kategori": "TKP",
+    "pertanyaan": "Atasan saya tiba-tiba memberi saya tugas yang memaksa saya untuk bekerja lembur. Padahal saya telah berjanji akan mengantar anak saya ke acara ulang tahun temannya. Yang harus saya lakukan adalah ...",
+    "opsi": [
+      "Menolak tugas yang diberikan atasan",
+      "Menerima tugas dan membatalkan janji dengan baik",
+      "Menyarankan kepada atasan untuk memberikan tugas kepada pegawai lain",
+      "Menerima tugas dan kemudian meminta bantuan teman untuk mengerjakannya",
+      "Menerima tugas, namun meminta izin untuk mengantarkan anak terlebih dahulu dan kemudian kembali ke kantor untuk menyelesaikan tugas"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      4,
+      3,
+      2,
+      5
+    ],
+    "pembahasan": "Aspek manajemen prioritas dan komitmen: Mengakomodasi kebutuhan keluarga sejenak dengan komunikasi yang jelas, lalu segera menuntaskan tugas lembur kantor (Poin 5: E)."
+  },
+  {
+    "id": 100,
+    "kategori": "TKP",
+    "pertanyaan": "Saya baru saja menerima penghargaan dari perusahaan atas kinerja saya yang baik. Saya akan ...",
+    "opsi": [
+      "Memamerkan penghargaan yang saya terima kepada teman-teman kantor",
+      "Bekerja seperti biasa",
+      "Meningkatkan kinerja agar mendapat penghargaan lagi",
+      "Meningkatkan kinerja dan memotivasi teman-teman untuk bekerja lebih giat lagi",
+      "Meningkatkan kinerja untuk menjawab kepercayaan perusahaan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      3,
+      2,
+      5,
+      4
+    ],
+    "pembahasan": "Aspek kerendahan hati dan kepemimpinan suportif: Menjadikan penghargaan sebagai pemicu semangat untuk berkinerja lebih baik sekaligus menginspirasi rekan kerja (Poin 5: D)."
+  },
+  {
+    "id": 101,
+    "kategori": "TWK",
+    "pertanyaan": "Berdasarkan amandemen UUD 1945, lembaga negara yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah ...",
+    "opsi": [
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "Komisi Yudisial",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Rakyat"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Pasal 24C ayat (1) UUD 1945 menetapkan bahwa Mahkamah Konstitusi (MK) berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk: menguji UU terhadap UUD, memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD, memutus pembubaran partai politik, dan memutus perselisihan hasil pemilu."
+  },
+  {
+    "id": 102,
+    "kategori": "TWK",
+    "pertanyaan": "Prinsip Bhinneka Tunggal Ika pertama kali ditemukan dalam kitab kuno karangan Mpu Tantular pada masa Kerajaan Majapahit, yaitu kitab ...",
+    "opsi": [
+      "Negarakertagama",
+      "Sutasoma",
+      "Pararaton",
+      "Arjunawiwaha",
+      "Bratayuda"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Frasa 'Bhinneka Tunggal Ika' berasal dari Kakawin Sutasoma pupuh 139 bait 5 karya Mpu Tantular pada zaman kejayaan Majapahit di bawah Raja Hayam Wuruk, yang mengajarkan toleransi beragama antara penganut Hindu Siwa dan Buddha."
+  },
+  {
+    "id": 103,
+    "kategori": "TWK",
+    "pertanyaan": "Perilaku yang mencerminkan penerapan sila kedua Pancasila 'Kemanusiaan yang Adil dan Beradab' dalam kehidupan sehari-hari adalah ...",
+    "opsi": [
+      "Menghormati hak orang lain dalam menjalankan ibadah keagamaan",
+      "Mengakui persamaan derajat, hak, dan kewajiban asasi setiap manusia tanpa diskriminasi",
+      "Mencintai produk-produk dalam negeri demi kemandirian bangsa",
+      "Mengutamakan musyawarah mufakat dalam pengambilan keputusan",
+      "Mengembangkan sikap hidup hemat dan suka bekerja keras"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Sila ke-2 'Kemanusiaan yang Adil dan Beradab' menjunjung tinggi nilai kemanusiaan, persamaan derajat, perlacuan adil tanpa membeda-bedakan suku, agama, ras, dan antargolongan, serta gemar melakukan kegiatan kemanusiaan."
+  },
+  {
+    "id": 104,
+    "kategori": "TWK",
+    "pertanyaan": "Keikutsertaan warga negara dalam upaya bela negara sebagaimana diatur dalam Pasal 9 ayat (2) UU No. 3 Tahun 2002 dapat diselenggarakan melalui hal-hal berikut, KECUALI ...",
+    "opsi": [
+      "Pendidikan kewarganegaraan",
+      "Pelatihan dasar kemiliteran secara wajib",
+      "Pengabdian sebagai prajurit TNI secara sukarela atau wajib",
+      "Pengabdian sesuai dengan profesi",
+      "Demonstrasi menentang kebijakan pertahanan negara"
+    ],
+    "kunci_jawaban": "E",
+    "bobot_tkp": null,
+    "pembahasan": "Pasal 9 ayat (2) UU No. 3 Tahun 2002 tentang Pertahanan Negara menyatakan keikutsertaan bela negara diselenggarakan melalui: 1) Pendidikan kewarganegaraan, 2) Pelatihan dasar kemiliteran secara wajib, 3) Pengabdian sebagai prajurit TNI, dan 4) Pengabdian sesuai profesi."
+  },
+  {
+    "id": 105,
+    "kategori": "TWK",
+    "pertanyaan": "Kalimat berikut yang menggunakan tanda baca koma (,) secara tepat sesuai dengan kaidah Ejaan Bahasa Indonesia yang Disempurnakan (EYD V) adalah ...",
+    "opsi": [
+      "Saya ingin membeli laptop baru, tetapi tabungan saya belum mencukupi.",
+      "Meskipun hari hujan lebat, namun para peserta ujian tetap hadir tepat waktu.",
+      "Ibu membeli sayur, beras, dan, minyak goreng di pasar tradisional.",
+      "Karena sakit dia tidak dapat menghadiri rapat dinas hari ini.",
+      "Rapat itu dihadiri oleh menteri gubernur, dan bupati."
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Dalam kaidah EYD, tanda koma dipakai sebelum konjungsi antarklausa koordinatif yang menyatakan pertentangan, seperti 'tetapi', 'melainkan', dan 'sedangkan'. Kalimat B pleonastis (meskipun digabung namun), C kelebihan koma setelah dan, D kurang koma setelah anak kalimat, E kurang koma setelah menteri."
+  },
+  {
+    "id": 106,
+    "kategori": "TIU",
+    "pertanyaan": "Jika x adalah 25% dari 80 dan y adalah 40% dari 50, maka hubungan x dan y yang tepat adalah ...",
+    "opsi": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = 3y",
+      "Hubungan x dan y tidak dapat ditentukan"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Hitung x: 25% x 80 = (1/4) x 80 = 20. Hitung y: 40% x 50 = (40/100) x 50 = 20. Karena x = 20 dan y = 20, maka x = y."
+  },
+  {
+    "id": 107,
+    "kategori": "TIU",
+    "pertanyaan": "Suatu pekerjaan dapat diselesaikan oleh 12 orang pekerja dalam waktu 20 hari. Jika pekerjaan tersebut ingin diselesaikan dalam waktu 15 hari, berapa orang pekerja tambahan yang diperlukan?",
+    "opsi": [
+      "3 orang",
+      "4 orang",
+      "5 orang",
+      "6 orang",
+      "8 orang"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Gunakan perbandingan berbalik nilai: Pekerja 1 x Waktu 1 = Pekerja 2 x Waktu 2 => 12 x 20 = Pekerja 2 x 15 => 240 = 15 x Pekerja 2 => Pekerja 2 = 16 orang. Pekerja tambahan = 16 - 12 = 4 orang."
+  },
+  {
+    "id": 108,
+    "kategori": "TIU",
+    "pertanyaan": "Deret angka: 3, 6, 12, 15, 30, 33, ..., ...",
+    "opsi": [
+      "66, 69",
+      "36, 72",
+      "66, 70",
+      "45, 90",
+      "60, 63"
+    ],
+    "kunci_jawaban": "A",
+    "bobot_tkp": null,
+    "pembahasan": "Perhatikan pola berselang: (+3, x2): 3 (+3)= 6; 6 (x2)= 12; 12 (+3)= 15; 15 (x2)= 30; 30 (+3)= 33; Maka berikutnya: 33 (x2) = 66, dan 66 (+3) = 69."
+  },
+  {
+    "id": 109,
+    "kategori": "TIU",
+    "pertanyaan": "Semua pegawai negeri sipil harus mengikuti pelatihan dasar. Beberapa peserta pelatihan dasar adalah lulusan cumlaude. Kesimpulan yang tepat adalah ...",
+    "opsi": [
+      "Semua lulusan cumlaude adalah pegawai negeri sipil.",
+      "Beberapa pegawai negeri sipil adalah lulusan cumlaude.",
+      "Tidak ada pegawai negeri sipil yang merupakan lulusan cumlaude.",
+      "Semua peserta pelatihan dasar adalah pegawai negeri sipil.",
+      "Lulusan cumlaude tidak wajib mengikuti pelatihan dasar."
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Premis 1: Semua PNS harus ikut latsar. Premis 2: Beberapa peserta latsar adalah lulusan cumlaude. Karena seluruh PNS merupakan peserta latsar dan sebagian peserta latsar berstatus cumlaude, dapat disimpulkan bahwa sebagian (beberapa) pegawai negeri sipil adalah lulusan cumlaude."
+  },
+  {
+    "id": 110,
+    "kategori": "TIU",
+    "pertanyaan": "KONTRAKTOR : BETON = PENULIS : ...",
+    "opsi": [
+      "Penerbit",
+      "Kertas",
+      "Kata",
+      "Tinta",
+      "Buku"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Analogi bahan dasar/elemen pembangun: Kontraktor menyusun beton untuk menghasilkan bangunan, sebagaimana Penulis menyusun kata untuk menghasilkan tulisan/karya."
+  },
+  {
+    "id": 111,
+    "kategori": "TIU",
+    "pertanyaan": "Rata-rata nilai matematika 15 orang siswa adalah 7,4. Jika nilai Andi dimasukkan, nilai rata-rata menjadi 7,5. Berapakah nilai matematika Andi?",
+    "opsi": [
+      "8,0",
+      "8,5",
+      "9,0",
+      "9,2",
+      "9,5"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Total nilai 15 siswa = 15 x 7,4 = 111,0. Total nilai 16 siswa (setelah Andi masuk) = 16 x 7,5 = 120,0. Nilai Andi = 120,0 - 111,0 = 9,0."
+  },
+  {
+    "id": 112,
+    "kategori": "TIU",
+    "pertanyaan": "Jika a = √64 + ∛27 dan b = 2³ + 3², maka pernyataan yang benar adalah ...",
+    "opsi": [
+      "a = b",
+      "a > b",
+      "a < b",
+      "a + b = 25",
+      "b - a = 5"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Hitung a: √64 = 8, ∛27 = 3 => a = 8 + 3 = 11. Hitung b: 2³ = 8, 3² = 9 => b = 8 + 9 = 17. Karena 11 < 17, maka a < b (dan selisihnya b - a = 6)."
+  },
+  {
+    "id": 113,
+    "kategori": "TIU",
+    "pertanyaan": "Sebuah toko pakaian memberikan diskon ganda berturut-turut sebesar 20% kemudian diskon tambahan 10% dari sisa harga. Berapakah persentase diskon total sebenarnya yang diterima pembeli?",
+    "opsi": [
+      "30%",
+      "28%",
+      "25%",
+      "22%",
+      "18%"
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Misalkan harga mula-mula 100. Diskon pertama 20% => sisa harga = 80. Diskon kedua 10% dari 80 = 8. Harga akhir yang dibayar = 80 - 8 = 72. Total diskon yang diperoleh = 100 - 72 = 28%."
+  },
+  {
+    "id": 114,
+    "kategori": "TIU",
+    "pertanyaan": "Deret huruf: D, F, I, M, R, ...",
+    "opsi": [
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "kunci_jawaban": "C",
+    "bobot_tkp": null,
+    "pembahasan": "Hitung urutan abjad: D(4) +2 = F(6); F(6) +3 = I(9); I(9) +4 = M(13); M(13) +5 = R(18); Pola penambahan selalu bertambah satu (+2, +3, +4, +5, +6). Maka R(18) +6 = 24, yaitu huruf X."
+  },
+  {
+    "id": 115,
+    "kategori": "TIU",
+    "pertanyaan": "Tidak ada atlet profesional yang merokok. Semua perenang jarak jauh adalah atlet profesional. Kesimpulan yang sah adalah ...",
+    "opsi": [
+      "Beberapa perenang jarak jauh merokok.",
+      "Tidak ada perenang jarak jauh yang merokok.",
+      "Semua orang yang tidak merokok adalah perenang jarak jauh.",
+      "Sebagian atlet profesional bukan perenang jarak jauh.",
+      "Semua perenang jarak jauh tidak profesional."
+    ],
+    "kunci_jawaban": "B",
+    "bobot_tkp": null,
+    "pembahasan": "Berdasarkan silogisme kategorik: Semua perenang jarak jauh termasuk ke dalam himpunan atlet profesional, dan tidak ada satu pun atlet profesional yang merokok. Maka secara mutlak: Tidak ada perenang jarak jauh yang merokok."
+  },
+  {
+    "id": 116,
+    "kategori": "TKP",
+    "pertanyaan": "Instansi tempat Anda bekerja mulai menerapkan sistem absensi dan disposisi dokumen berbasis aplikasi mobile baru. Sebagian rekan senior mengeluh karena merasa kesulitan mengoperasikannya. Sikap Anda adalah ...",
+    "opsi": [
+      "Membiarkan saja karena setiap pegawai harus belajar mandiri menghadapi perkembangan teknologi",
+      "Mempelajari sistem tersebut hingga mahir lalu secara proaktif meluangkan waktu mendampingi rekan senior",
+      "Mengusulkan kepada pimpinan agar sistem lama tetap digunakan berdampingan tanpa batas waktu",
+      "Membantu menyelesaikan absensi dan disposisi mereka setiap hari menggunakan akun mereka",
+      "Menunggu instruksi resmi pelatihan dari bagian kepegawaian sebelum bertindak"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      5,
+      2,
+      4,
+      3
+    ],
+    "pembahasan": "Aspek TIK dan Kolaborasi: Sikap adaptif terhadap transformasi digital yang dibarengi proaktivitas membantu rekan kerja belajar mandiri (opsi B bernilai 5) mencerminkan budaya kolaboratif dan adaptif ASN BerAKHLAK."
+  },
+  {
+    "id": 117,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika Anda sedang fokus menyelesaikan laporan pertanggungjawaban keuangan yang harus dikirim sore ini, seorang warga masyarakat datang dengan panik karena memerlukan informasi mendesak mengenai prosedur pengurusan izin. Sikap Anda adalah ...",
+    "opsi": [
+      "Menolak melayani dan memintanya membaca papan pengumuman di depan gedung",
+      "Meminta warga tersebut menunggu beberapa jam sampai laporan keuangan Anda selesai",
+      "Menyapa ramah, mendengarkan inti kebutuhannya, memberikan petunjuk jelas atau mengarahkannya ke petugas piket loket pelayanan",
+      "Memarahi warga tersebut karena tidak melihat Anda sedang sibuk mengerjakan berkas penting",
+      "Menjelaskan dengan sopan bahwa Anda sedang ada tenggat waktu dan mengantarkannya sebentar ke rekan bagian informasi"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      3,
+      5,
+      2,
+      4
+    ],
+    "pembahasan": "Aspek Pelayanan Publik dan Manajemen Waktu: Responsif, santun, dan solutif tanpa mengorbankan tanggung jawab tugas utama (opsi C bernilai 5) menunjukkan orientasi pelayanan prima dan efisiensi kerja."
+  },
+  {
+    "id": 118,
+    "kategori": "TKP",
+    "pertanyaan": "Dalam sebuah percakapan di grup perpesanan kantor, seorang rekan kerja menyebarkan berita yang bernada provokatif dan mendiskreditkan kelompok suku tertentu terkait seleksi jabatan. Sikap Anda adalah ...",
+    "opsi": [
+      "Ikut menyebarkan berita tersebut ke grup lain agar rekan-rekan lain berhati-hati",
+      "Mengingatkan rekan tersebut secara santun di ruang obrolan pribadi agar tidak menyebarkan isu SARA dan mengajak verifikasi fakta",
+      "Mendiamkan saja agar hubungan pertemanan tetap terjaga baik dan tidak menimbulkan konflik",
+      "Mengajak rekan-rekan lain untuk berhati-hati dan mengklarifikasi berita tersebut dengan sumber resmi di grup",
+      "Menegur langsung di grup dengan nada keras dan emosional"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      5,
+      2,
+      4,
+      3
+    ],
+    "pembahasan": "Aspek Sosial Budaya dan Anti-Radikalisme: ASN berfungsi sebagai perekat dan pemersatu bangsa. Mengingatkan rekan secara bijak dan persuasif mencegah polarisasi (opsi B bernilai 5)."
+  },
+  {
+    "id": 119,
+    "kategori": "TKP",
+    "pertanyaan": "Anda ditunjuk menjadi ketua tim penyusunan modul pelatihan yang anggotanya berasal dari berbagai divisi dengan latar belakang disiplin ilmu dan budaya yang berbeda-beda. Langkah pertama Anda adalah ...",
+    "opsi": [
+      "Membuat pembagian tugas secara sepihak dan langsung memberikan tenggat waktu ketat",
+      "Mengadakan rapat koordinasi awal untuk membangun kesamaan visi, memetakan keahlian anggota, dan menyepakati target bersama",
+      "Menunggu anggota tim datang menawarkan diri mengenai tugas apa yang ingin mereka kerjakan",
+      "Berdiskusi intensif dengan perwakilan anggota senior terlebih dahulu sebelum menyusun rencana kerja pleno",
+      "Meminta atasan mengganti anggota tim dengan rekan-rekan yang sudah sering bekerja sama dengan Anda"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      3,
+      5,
+      2,
+      4,
+      1
+    ],
+    "pembahasan": "Aspek Kepemimpinan dan Jejaring Kerja: Membangun komunikasi dua arah, menyamakan persepsi, dan memberdayakan potensi seluruh anggota tim (opsi B bernilai 5) merupakan kunci sukses kepemimpinan partisipatif."
+  },
+  {
+    "id": 120,
+    "kategori": "TKP",
+    "pertanyaan": "Seorang vendor rekanan kantor memberikan parcel makanan dan voucher belanja bernilai jutaan rupiah ke rumah Anda menjelang hari raya setelah proyek pengadaan barang selesai. Sikap Anda adalah ...",
+    "opsi": [
+      "Menerimanya dengan senang hati karena menganggapnya sebagai rezeki dan tanda silaturahmi",
+      "Menolak dengan sopan menjelaskan bahwa ASN dilarang menerima gratifikasi terkait jabatan, serta melaporkan ke Unit Pengendalian Gratifikasi",
+      "Menerimanya tetapi membagikan seluruh isinya kepada panti asuhan atau yayasan sosial",
+      "Menerima parcel kue namun mengembalikan voucher belanja kepada rekanan secara langsung",
+      "Menolak pemberian tersebut secara santun dan mengingatkan rekanan mengenai komitmen anti-gratifikasi instansi"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      5,
+      3,
+      2,
+      4
+    ],
+    "pembahasan": "Aspek Integritas dan Nilai Akuntabel: Menolak gratifikasi dengan santun dan berpegang teguh pada regulasi pencegahan korupsi (opsi B bernilai 5) adalah komitmen mutlak integritas aparatur negara."
+  },
+  {
+    "id": 121,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika ide proyek inovasi pelayanan yang Anda susun selama berminggu-minggu ditolak oleh pimpinan rapat karena dinilai membutuhkan anggaran terlalu besar, reaksi Anda adalah ...",
+    "opsi": [
+      "Merasa kecewa dan memutuskan tidak akan lagi mengajukan ide dalam rapat-rapat selanjutnya",
+      "Menerima keputusan dengan lapang dada, meminta masukan pimpinan, dan mencari alternatif solusi yang lebih hemat biaya",
+      "Menerima penolakan dan meminta bimbingan senior untuk memperbaiki proposal pada siklus penganggaran tahun depan",
+      "Berdebat keras mempertahankan proposal Anda karena merasa ide tersebut sangat dibutuhkan",
+      "Menyalahkan rekan tim yang dianggap kurang mendukung saat sesi presentasi ide"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      5,
+      4,
+      3,
+      2
+    ],
+    "pembahasan": "Aspek Resiliensi dan Orientasi Hasil: Bersikap dewasa menerima feedback, cepat beradaptasi, dan proaktif menyempurnakan solusi (opsi B bernilai 5) menunjukkan kematangan emosi dan determinasi tinggi."
+  },
+  {
+    "id": 122,
+    "kategori": "TKP",
+    "pertanyaan": "Anda mendapati seorang rekan satu ruangan sering menggunakan printer dan kertas inventaris kantor untuk mencetak materi usaha sampingan pribadinya. Sikap Anda adalah ...",
+    "opsi": [
+      "Membiarkannya karena hal itu sudah lumrah dan tidak merugikan Anda secara pribadi",
+      "Ikut mencetak berkas pribadi karena fasilitas kantor tersedia untuk semua pegawai",
+      "Menegur dan mengingatkan rekan tersebut secara baik-baik bahwa fasilitas kantor harus dioptimalkan untuk keperluan dinas",
+      "Melaporkan temuan tersebut langsung kepada bagian umum tanpa menegur yang bersangkutan",
+      "Mengajak rekan tersebut berdiskusi santai tentang efisiensi anggaran dan akuntabilitas aset kantor"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      1,
+      5,
+      3,
+      4
+    ],
+    "pembahasan": "Aspek Akuntabilitas dan Kepedulian Lingkungan Kerja: Berani menegur secara etis dan mengingatkan penggunaan aset negara secara bertanggung jawab (opsi C bernilai 5)."
+  },
+  {
+    "id": 123,
+    "kategori": "TKP",
+    "pertanyaan": "Untuk meningkatkan efisiensi pelayanan, pimpinan menugaskan Anda menjadi narahubung program studi tiru ke dinas percontohan di luar provinsi dalam waktu singkat. Yang Anda lakukan adalah ...",
+    "opsi": [
+      "Menerima tugas tersebut dengan antusias, segera mempelajari profil dinas tujuan, dan menyusun agenda kerja terstruktur",
+      "Menerima tugas dan berkonsultasi dengan atasan mengenai fokus inovasi apa yang perlu digali",
+      "Menerima tugas tersebut namun melaksanakannya secara standar tanpa rencana target inovasi",
+      "Meminta tugas tersebut dialihkan ke rekan lain yang belum pernah bepergian keluar daerah",
+      "Mengeluh karena persiapan yang diberikan terlalu singkat dan melelahkan"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "pembahasan": "Aspek Kompeten dan Kemauan Belajar: Tanggap, berinisiatif, dan memanfaatkan peluang benchmarking untuk kemajuan unit kerja (opsi A bernilai 5)."
+  },
+  {
+    "id": 124,
+    "kategori": "TKP",
+    "pertanyaan": "Saat terjadi bencana alam di daerah sekitar wilayah kerja instansi Anda, komunitas relawan membutuhkan tenaga sukarelawan pada akhir pekan. Sikap Anda adalah ...",
+    "opsi": [
+      "Memilih beristirahat di rumah karena hari libur adalah hak mutlak pribadi",
+      "Berpartisipasi aktif bergabung menjadi relawan menyalurkan bantuan sesuai kapasitas dan keahlian yang dimiliki",
+      "Menggalang donasi dan bantuan logistik dari rekan kerja di kantor untuk diserahkan ke posko relawan",
+      "Hanya ikut jika rekan-rekan kerja yang lain juga ikut bergabung ke lokasi bencana",
+      "Menolak karena merasa sudah ada lembaga khusus pemerintah yang bertugas menangani bencana"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      4,
+      3,
+      1
+    ],
+    "pembahasan": "Aspek Kepedulian Sosial dan Jiwa Pengabdian: Kesukarelaan dan empati nyata membantu sesama yang tertimpa musibah (opsi B bernilai 5) mencerminkan kepribadian berjiwa sosial tinggi."
+  },
+  {
+    "id": 125,
+    "kategori": "TKP",
+    "pertanyaan": "Ketika menghadapi perubahan mendadak pada regulasi pelaporan audit yang membuat data yang telah Anda kumpulkan harus dirombak ulang, reaksi Anda adalah ...",
+    "opsi": [
+      "Mengeluh dan menunda pengerjaan sampai mendekati batas akhir penyerahan",
+      "Cepat mencermati regulasi baru, mengidentifikasi perbedaan format, dan menjadwalkan ulang tahapan revisi secara disiplin",
+      "Berkoordinasi dengan rekan sejawat dan tim penyusun untuk membagi beban revisi data secara sistematis",
+      "Memprotes pimpinan instansi karena regulasi sering berganti-ganti",
+      "Menyelesaikan perubahan sebagian data pokok saja dan menunda bagian lampiran"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      4,
+      1,
+      3
+    ],
+    "pembahasan": "Aspek Fleksibilitas dan Daya Adaptasi: Kemampuan merespons dinamika perubahan aturan dengan cepat, tenang, dan solutif (opsi B bernilai 5)."
+  },
+  {
+    "id": 126,
+    "kategori": "TKP",
+    "pertanyaan": "Dalam forum diskusi perancangan SOP baru, seorang anggota baru mengemukakan usulan yang dinilai sebagian orang tidak lazim namun memiliki potensi efisiensi tinggi. Sikap Anda adalah ...",
+    "opsi": [
+      "Mengabaikan usulan tersebut karena yang bersangkutan masih minim pengalaman kerja",
+      "Mendengarkan dengan terbuka, mengapresiasi keberanian berpendapat, dan menguji kelayakan ide secara objektif bersama tim",
+      "Mengapresiasi usulan dan memberikan masukan konstruktif untuk menyempurnakan aspek praktisnya",
+      "Langsung menolak usulan tersebut demi mempertahankan tradisi kerja yang sudah terbukti aman",
+      "Menertawakan usulannya di depan umum agar tidak mengajukan ide yang aneh lagi"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      4,
+      3,
+      1
+    ],
+    "pembahasan": "Aspek Apresiatif dan Inklusif: Menghargai inovasi dari siapapun tanpa memandang senioritas dan bersikap objektif (opsi B bernilai 5)."
+  },
+  {
+    "id": 127,
+    "kategori": "TKP",
+    "pertanyaan": "Instansi Anda mewajibkan seluruh staf menandatangani pakta integritas dan komitmen anti-gratifikasi secara terbuka di hadapan media dan masyarakat. Pandangan Anda terhadap hal ini adalah ...",
+    "opsi": [
+      "Menganggapnya kegiatan seremonial belaka yang membuang-buang anggaran kantor",
+      "Langkah positif yang sangat penting untuk memperkuat transparansi, akuntabilitas, dan kepercayaan publik",
+      "Komitmen bersama yang baik dan perlu diimbangi dengan sistem pemantauan dan pengaduan internal yang efektif",
+      "Beban moral yang cukup berat namun harus tetap dijalankan karena perintah pimpinan",
+      "Hal yang biasa saja karena integritas sudah seharusnya menjadi kebiasaan tanpa perlu deklarasi publik"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      4,
+      3,
+      1
+    ],
+    "pembahasan": "Aspek Akuntabilitas dan Komitmen Pelayanan Bersih: Mendukung penuh transparansi dan reformasi birokrasi yang berpihak pada kepentingan umum (opsi B bernilai 5)."
+  },
+  {
+    "id": 128,
+    "kategori": "TKP",
+    "pertanyaan": "Saat rekan satu tim Anda tiba-tiba harus cuti mendadak karena orang tuanya sakit keras, ada berkas permohonan warga yang belum sempat ia verifikasi. Tindakan Anda adalah ...",
+    "opsi": [
+      "Menghubungi rekan yang sedang cuti dan memaksanya segera kembali ke kantor",
+      "Mengambil inisiatif berkoordinasi dengan atasan untuk mengambil alih dan menyelesaikan verifikasi berkas tersebut agar pelayanan tidak terhenti",
+      "Berkoordinasi dengan rekan lain dalam satu ruangan untuk bersama-sama menyelesaikan berkas yang tertinggal",
+      "Menginformasikan kepada pemohon dengan sopan mengenai kendala tersebut dan berjanji menyelesaikannya secepat mungkin",
+      "Membiarkan berkas tersebut menumpuk di meja rekan Anda sampai ia masuk kembali"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      1,
+      5,
+      4,
+      3,
+      2
+    ],
+    "pembahasan": "Aspek Kerja Sama dan Orientasi Pelayanan: Proaktif mengambil alih beban tim demi memastikan kesinambungan pelayanan publik kepada masyarakat (opsi B bernilai 5)."
+  },
+  {
+    "id": 129,
+    "kategori": "TKP",
+    "pertanyaan": "Anda mengetahui adanya tawaran beasiswa studi lanjut ke luar negeri yang sangat relevan dengan bidang tugas Anda, namun seleksinya sangat ketat dan memerlukan tes kemampuan bahasa asing yang tinggi. Tindakan Anda adalah ...",
+    "opsi": [
+      "Tidak mendaftar karena merasa kemampuan diri tidak akan mampu menandingi pelamar lain",
+      "Mempersiapkan diri dengan tekun belajar bahasa asing, melengkapi berkas persyaratan, dan optimis mengikuti seleksi",
+      "Berkonsultasi dengan alumni penerima beasiswa untuk mendapatkan strategi persiapan yang efektif dan terarah",
+      "Mencoba mendaftar tanpa persiapan matang dengan prinsip untung-untungan",
+      "Pesimis dan menganggap peluang beasiswa hanya untuk orang-orang tertentu saja"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      4,
+      3,
+      1
+    ],
+    "pembahasan": "Aspek Pengembangan Diri (Continuous Learning): Berani mengambil tantangan, gigih meningkatkan kompetensi, dan percaya pada proses yang berintegritas (opsi B bernilai 5)."
+  },
+  {
+    "id": 130,
+    "kategori": "TKP",
+    "pertanyaan": "Di lingkungan tempat tinggal Anda terdapat warga pendatang baru dari luar daerah dengan adat istiadat dan pakaian yang berbeda dari mayoritas warga setempat. Sebagian warga tampak menjaga jarak. Sikap Anda adalah ...",
+    "opsi": [
+      "Ikut menjaga jarak demi kehati-hatian terhadap orang asing",
+      "Mengunjungi dan menyapa ramah keluarga pendatang tersebut, mengenalkan lingkungan sekitar, serta mengajak warga lain bersikap inklusif",
+      "Mengajak keluarga pendatang tersebut untuk aktif berpartisipasi dalam kegiatan gotong royong dan silaturahmi RT",
+      "Bersikap wajar dan menyapa hanya ketika berpapasan di jalan",
+      "Membicarakan kebiasaan mereka bersama tetangga-tetangga yang lain di luar pertemuan warga"
+    ],
+    "kunci_jawaban": null,
+    "bobot_tkp": [
+      2,
+      5,
+      4,
+      3,
+      1
+    ],
+    "pembahasan": "Aspek Sosial Budaya dan Perekat Bangsa: Menjadi teladan sikap inklusif, menghargai keberagaman, dan mempererat kerukunan sosial di tengah masyarakat majemuk (opsi B bernilai 5)."
+  }
+]

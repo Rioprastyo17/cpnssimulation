@@ -1,0 +1,9 @@
+SoalNomor37 (PC)
+Tidak ada burung hantu yang aktif di siang hari
+Beberapa hewan yang aktif di siang hari suka memakan serangga
+Kesimpulan dari kedua premis tersebut adalah.
+A Semua burung hantu suka memakan serangga.
+B _Beberapahewan yang suka memakan serangga bukan burung hantu
+& Semua burung hantu aktif dimalam hari dan suka serangga.
+D Sebagian burung hantu aktif disiang hari.
+& Burung hantutidak suka memakan serangga.

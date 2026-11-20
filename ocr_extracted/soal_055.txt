@@ -1,0 +1,12 @@
+Soal Nomor §5 (PG)
+Dari angka 1 sampai 8 akan dimasukkan ke dalam 3 kotak dengan aturan tertentu. Kotak A berisi angka 2 dan dua angka ganjil. Kotak 8
+berisi angka 4, 6, serta satu angka ganjil terbesar. Kotak C hanya berisi angka terkecil dan angka genap terbesar. Manakah dari pilihan
+berikut yang merupakan anggota dalam satukotak?
+
+8 46,8
+
+© 178
+
+> 24,6
+
+E 36,7

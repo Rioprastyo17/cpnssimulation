@@ -1,0 +1,12 @@
+Pembahasan Nomor35
+
+Jawaban kamu: (EX
+
+IM Pembahasan Soal
+
+Premis pertama menyatakan semua peserta yang hadir di seminar harus registrasi. Premis kedua menyebutkan ada peserta yang sudah
+registrasi tetapi tidak mendapat seminar kit, namun tidak dijelaskan apakah mereka masuk atau tidak. Premis ketiga menegaskan bahwa
+yang tidak registrasi tidak boleh masuk. Maka, kesimpulan yang tepat adalah semua peserta yang masuk ruang seminar pasti sudah
+registrasi.
+
+Jawaban: C
