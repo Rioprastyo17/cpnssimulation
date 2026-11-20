@@ -1,8 +1,12 @@
 # 🎯 Simulasi CAT CPNS (Rust + eframe/egui)
 
-Aplikasi simulasi Computer Assisted Test (CAT) Seleksi Kompetensi Dasar (SKD) Calon Pegawai Negeri Sipil (CPNS) berbasis desktop yang dibangun menggunakan bahasa pemrograman **Rust** dan framework GUI responsif **eframe / egui**.
+Aplikasi simulasi Computer Assisted Test (CAT) Seleksi Kompetensi Dasar (SKD) Calon Pegawai Negeri Sipil (CPNS) berbasis desktop yang dibangun menggunakan bahasa pemrograman **Rust** dan framework eframe/egui.
 
 Aplikasi ini didesain ringan, cepat, tanpa lag, dan dapat berjalan secara offline (tanpa koneksi internet) pada sistem operasi **Windows**, **macOS**, dan **Linux**.
+
+## 🎬 Demo Video
+
+<video src="record.mp4" controls muted width="100%"></video>
 
 ---
 
@@ -95,7 +99,7 @@ cargo build --release
 ### 2. Microsoft Windows (Windows 10 / 11)
 
 #### Dependensi Sistem
-- Pastikan telah menginstal **Visual Studio C++ Build Tools** (disarankan saat instalasi `rustup`). Jika belum, instal via Visual Studio Installer dengan mencentang *"Desktop development with C++"*.
+- Pastikan Anda telah menginstal **Visual Studio C++ Build Tools** (disarankan saat instalasi `rustup`). Jika belum, instal melalui Visual Studio Installer dengan mencentang *Desktop development with C++*.
 
 #### Menjalankan & Build di Windows
 Buka **PowerShell** atau **Command Prompt**:
@@ -115,7 +119,7 @@ cargo build --release
 
 > [!IMPORTANT]
 > **Distribusi Mandiri di Windows:**
-> Jika memindahkan `simulasi-cpns.exe` ke folder lain atau komputer lain, pastikan menyertakan file dataset JSON (`dataset_soal*.json`) dan folder `assets/` di direktori yang sama dengan file `.exe`.
+> Jika memindahkan `simulasi-cpns.exe` ke folder lain atau komputer lain, pastikan menyertakan file dataset JSON (`dataset_soal*.json`) dan folder `assets/` di direktori yang sama dengan file `.exe` agar aplikasi dapat mencari dan memuat bank soal serta gambar dengan benar.
 
 ---
 
@@ -155,11 +159,12 @@ simulasi-cpns/
 ├── assets/
 │   └── images/                    # Gambar diagram/soal & pembahasan (figural)
 ├── dataset_soal.json              # Bank soal utama
-├── dataset_soal1.json             # Bank soal paket 1
-├── dataset_soal11.json            # Bank soal paket 11
-├── dataset_soal22.json            # Bank soal paket 22
-├── dataset_soal33.json            # Bank soal paket 33
+├── dataset_soal1.json              # Bank soal paket 1
+├── dataset_soal11.json             # Bank soal paket 11
+├── dataset_soal22.json             # Bank soal paket 22
+├── dataset_soal33.json             # Bank soal paket 33
 ├── dataset_soal_latihan*.json     # Koleksi paket latihan tambahan
+├── record.mp4                     # Video demo aplikasi
 └── README.md                      # Dokumentasi proyek
 ```
 
