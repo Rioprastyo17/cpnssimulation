@@ -2,3 +2,10 @@
 **/*.rs.bk
 *.pdb
 .DS_Store
+
+# Temporary & raw extraction files
+*.pdf
+ocr_extracted/
+ocr_pages/
+pdf_text_*.txt
+*.py
